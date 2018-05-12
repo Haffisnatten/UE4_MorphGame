@@ -1,0 +1,868 @@
+﻿Log file open, 05/12/18 22:29:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UE4_MorphGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-734191786) SRandInit(-734191786).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165352
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.640s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Magnus-Pc (192.168.10.139:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.12-20.29.23:899][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-20.29.23:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.12-20.29.23:911][  0]LogInit: Computer: MAGNUS-PC
+[2018.05.12-20.29.23:911][  0]LogInit: User: Magnus
+[2018.05.12-20.29.23:911][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.12-20.29.23:911][  0]LogInit: High frequency timer resolution =3.117182 MHz
+[2018.05.12-20.29.23:912][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.12-20.29.23:912][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.12-20.29.23:912][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2018.05.12-20.29.23:912][  0]LogMemory: Process Virtual Memory: 270.98 MB used, 270.98 MB peak
+[2018.05.12-20.29.23:912][  0]LogMemory: Physical Memory: 6264.71 MB used,  10072.13 MB free, 16336.84 MB total
+[2018.05.12-20.29.23:912][  0]LogMemory: Virtual Memory: 693.36 MB used,  10072.13 MB free, 134217728.00 MB total
+[2018.05.12-20.29.23:929][  0]LogInit: Using OS detected language (nb-NO).
+[2018.05.12-20.29.23:929][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.05.12-20.29.23:931][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.05.12-20.29.24:346][  0]LogStreaming: Display: Took  0.417s to EndInitTextLocalization.
+[2018.05.12-20.29.24:346][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.12-20.29.24:394][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.12-20.29.24:394][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.12-20.29.24:571][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.12-20.29.24:626][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.12-20.29.24:626][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.05.12-20.29.24:628][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.12-20.29.24:628][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.12-20.29.24:628][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.12-20.29.24:636][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.12-20.29.24:637][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.12-20.29.24:637][  0]LogWindows: EnumDisplayDevices:
+[2018.05.12-20.29.24:637][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.12-20.29.24:637][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.12-20.29.24:637][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.12-20.29.24:637][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.12-20.29.24:637][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.12-20.29.24:637][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.12-20.29.24:637][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.12-20.29.24:637][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.12-20.29.24:637][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.12-20.29.24:674][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.12-20.29.24:674][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.12-20.29.24:674][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.12-20.29.24:742][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.12-20.29.24:785][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Intermediate/Shaders/WorkingDirectory/1252/).
+[2018.05.12-20.29.24:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Magnus/AppData/Local/Temp/UnrealShaderWorkingDir/65EE7AA54BDB82B5AC944089B9476062/'.
+[2018.05.12-20.29.24:977][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.12-20.29.24:990][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.12-20.29.25:004][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.12-20.29.25:016][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.12-20.29.25:030][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.12-20.29.25:043][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.12-20.29.25:056][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.12-20.29.25:069][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.12-20.29.25:074][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.12-20.29.25:086][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.12-20.29.25:098][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.12-20.29.25:110][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.12-20.29.25:123][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.12-20.29.25:134][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.12-20.29.25:146][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.12-20.29.25:170][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.12-20.29.25:170][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.12-20.29.25:182][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.12-20.29.25:183][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.12-20.29.25:218][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.12-20.29.25:230][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.12-20.29.25:242][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.12-20.29.25:254][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.12-20.29.25:266][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.12-20.29.25:278][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.12-20.29.25:278][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.12-20.29.25:349][  0]LogXGEController: Cleaning working directory: C:/Users/Magnus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.12-20.29.25:350][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.12-20.29.25:350][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.12-20.29.25:350][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.12-20.29.25:986][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.12-20.29.26:047][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.12-20.29.26:062][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.12-20.29.26:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Magnus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.12-20.29.26:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.12-20.29.26:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.12-20.29.26:084][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.12-20.29.26:084][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.12-20.29.26:085][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-20.29.26:085][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-20.29.26:186][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.05.12-20.29.26:468][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-20.29.26:593][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.12-20.29.26:595][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.12-20.29.26:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.12-20.29.26:595][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.12-20.29.26:595][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.12-20.29.26:595][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.12-20.29.26:639][  0]LogNetVersion: UE4_MorphGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1931843701)
+[2018.05.12-20.29.26:995][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.036481 seconds
+[2018.05.12-20.29.27:001][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.12-20.29.27:001][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.12-20.29.27:001][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.12-20.29.28:393][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.12-20.29.28:414][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.12-20.29.28:660][  0]SourceControl: Source control is disabled
+[2018.05.12-20.29.28:660][  0]SourceControl: Source control is disabled
+[2018.05.12-20.29.28:671][  0]SourceControl: Source control is disabled
+[2018.05.12-20.29.28:683][  0]SourceControl: Source control is disabled
+[2018.05.12-20.29.29:017][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.12-20.29.29:124][  0]LogOcInput: OculusInput pre-init called
+[2018.05.12-20.29.29:207][  0]LogEngine: Initializing Engine...
+[2018.05.12-20.29.29:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.12-20.29.29:209][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.12-20.29.29:209][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.12-20.29.29:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.12-20.29.29:419][  0]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.29.29:429][  0]LogInit: FAudioDevice initialized.
+[2018.05.12-20.29.29:497][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.12-20.29.29:505][  0]LogInit: Texture streaming: Enabled
+[2018.05.12-20.29.29:515][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.12-20.29.29:530][  0]LogInit: Transaction tracking system initialized
+[2018.05.12-20.29.29:545][  0]BlueprintLog: New page: Editor Load
+[2018.05.12-20.29.29:597][  0]LocalizationService: Localization service is disabled
+[2018.05.12-20.29.29:652][  0]LogLinker: Warning: Can't find file '/Game/Character_BP/ThirdPersonOverview'
+[2018.05.12-20.29.29:652][  0]LogLinker: Warning: Can't find file '/Game/Character_BP/ThirdPersonOverview'
+[2018.05.12-20.29.29:652][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Character_BP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.05.12-20.29.29:670][  0]LogConsoleResponse: Display: 
+[2018.05.12-20.29.29:796][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.12-20.29.29:796][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.12-20.29.29:796][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.12-20.29.29:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.12-20.29.29:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.12-20.29.30:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/' took 0.01s
+[2018.05.12-20.29.30:018][  0]SourceControl: Source control is disabled
+[2018.05.12-20.29.30:018][  0]Cmd: MAP LOAD FILE="C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.12-20.29.30:018][  0]LightingResults: New page: Lighting Build
+[2018.05.12-20.29.30:020][  0]MapCheck: New page: Map Check
+[2018.05.12-20.29.30:020][  0]LightingResults: New page: Lighting Build
+[2018.05.12-20.29.30:119][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25fe00, Size=256, Default__BP_LargeBox_C Function /Game/FirstPersonBP/Blueprints/BP_LargeBox.BP_LargeBox_C:ExecuteUbergraph_BP_LargeBox
+[2018.05.12-20.29.30:121][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25fe00, Size=256
+[2018.05.12-20.29.30:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25fe00, Size=256, Default__BP_LargeBox_C Function /Engine/Transient.REINST_BP_LargeBox_C_5:ExecuteUbergraph_BP_LargeBox
+[2018.05.12-20.29.30:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25cb00, Size=256, Default__BP_LargeBox_C Function /Game/FirstPersonBP/Blueprints/BP_LargeBox.BP_LargeBox_C:ExecuteUbergraph_BP_LargeBox
+[2018.05.12-20.29.30:126][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25f200, Size=256, Default__BP_LongBox_C Function /Game/FirstPersonBP/Blueprints/BP_LongBox.BP_LongBox_C:ExecuteUbergraph_BP_LongBox
+[2018.05.12-20.29.30:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25f200, Size=256
+[2018.05.12-20.29.30:129][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25f200, Size=256, Default__BP_LongBox_C Function /Engine/Transient.REINST_BP_LongBox_C_7:ExecuteUbergraph_BP_LongBox
+[2018.05.12-20.29.30:130][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25c500, Size=256, Default__BP_LongBox_C Function /Game/FirstPersonBP/Blueprints/BP_LongBox.BP_LongBox_C:ExecuteUbergraph_BP_LongBox
+[2018.05.12-20.29.30:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25d100, Size=256, Default__BP_NormalBox_C Function /Game/FirstPersonBP/Blueprints/BP_NormalBox.BP_NormalBox_C:ExecuteUbergraph_BP_NormalBox
+[2018.05.12-20.29.30:137][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25d100, Size=256
+[2018.05.12-20.29.30:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a25d100, Size=256, Default__BP_NormalBox_C Function /Engine/Transient.REINST_BP_NormalBox_C_9:ExecuteUbergraph_BP_NormalBox
+[2018.05.12-20.29.30:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a268900, Size=256, Default__BP_NormalBox_C Function /Game/FirstPersonBP/Blueprints/BP_NormalBox.BP_NormalBox_C:ExecuteUbergraph_BP_NormalBox
+[2018.05.12-20.29.30:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a268800, Size=256, Default__BP_SmallBox_C Function /Game/FirstPersonBP/Blueprints/BP_SmallBox.BP_SmallBox_C:ExecuteUbergraph_BP_SmallBox
+[2018.05.12-20.29.30:145][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a268800, Size=256
+[2018.05.12-20.29.30:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a268800, Size=256, Default__BP_SmallBox_C Function /Engine/Transient.REINST_BP_SmallBox_C_11:ExecuteUbergraph_BP_SmallBox
+[2018.05.12-20.29.30:147][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a26a200, Size=256, Default__BP_SmallBox_C Function /Game/FirstPersonBP/Blueprints/BP_SmallBox.BP_SmallBox_C:ExecuteUbergraph_BP_SmallBox
+[2018.05.12-20.29.30:164][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000233339172e0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.12-20.29.30:172][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000233339172e0, Size=72
+[2018.05.12-20.29.30:172][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023329f42660, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.12-20.29.30:179][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023329ea3ec0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.12-20.29.30:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332dc83900, Size=1072, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.29.30:250][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332dc83900, Size=1072
+[2018.05.12-20.29.30:250][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e845d00, Size=1072, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_14:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.29.30:268][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332dc83900, Size=1072, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.29.30:283][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7ada80, Size=272, Default__MorphObject_C Function /Game/FirstPersonBP/Blueprints/MorphObject.MorphObject_C:ExecuteUbergraph_MorphObject
+[2018.05.12-20.29.30:294][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e7ada80, Size=272
+[2018.05.12-20.29.30:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7ada80, Size=272, Default__MorphObject_C Function /Engine/Transient.REINST_MorphObject_C_16:ExecuteUbergraph_MorphObject
+[2018.05.12-20.29.30:302][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7ace00, Size=272, Default__MorphObject_C Function /Game/FirstPersonBP/Blueprints/MorphObject.MorphObject_C:ExecuteUbergraph_MorphObject
+[2018.05.12-20.29.30:414][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.577794ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.12-20.29.30:479][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.368427ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.05.12-20.29.30:486][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.337805ms] /Game/Geometry/Meshes/MorphTargets/SK_MorphBox.SK_MorphBox
+[2018.05.12-20.29.30:552][  0]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.29.30:558][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.12-20.29.30:571][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25fe00, Size=256
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25f200, Size=256
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a25d100, Size=256
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332a268800, Size=256
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023329f42660, Size=72
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e845d00, Size=1072
+[2018.05.12-20.29.30:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e7ada80, Size=272
+[2018.05.12-20.29.30:573][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.12-20.29.30:612][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38,67ms to complete.
+[2018.05.12-20.29.30:612][  0]LogFileHelpers: Loading map 'Level01' took 0.594
+[2018.05.12-20.29.30:743][  0]LogCollectionManager: Loaded 0 collections in 0.000873 seconds
+[2018.05.12-20.29.30:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Collections/' took 0.01s
+[2018.05.12-20.29.30:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Developers/Magnus/Collections/' took 0.01s
+[2018.05.12-20.29.30:804][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Collections/' took 0.01s
+[2018.05.12-20.29.30:804][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.12-20.29.30:813][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2452 classes and 558 folders.
+[2018.05.12-20.29.30:818][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.12-20.29.30:853][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.12-20.29.30:912][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.12-20.29.30:977][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.12-20.29.30:980][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.12-20.29.30:981][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.12-20.29.31:084][  0]LogRenderer: Reallocating scene render targets to support 904x904 Format 10 NumSamples 1 (Frame:1).
+[2018.05.12-20.29.31:219][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.12-20.29.31:219][  0]LogLoad: (Engine Initialization) Total time: 8.92 seconds
+[2018.05.12-20.29.31:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.12-20.29.31:577][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.12-20.29.31:594][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.12-20.29.31:903][  1]LogAssetRegistry: Asset discovery search completed in 5.7393 seconds
+[2018.05.12-20.29.31:905][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.12-20.29.31:905][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.05.12-20.29.42:377][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.29.42:469][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-20.29.42:488][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-20.29.42:489][134]PIE: New page: PIE session: Level01 (13. mai 2018, 00.29.42)
+[2018.05.12-20.29.42:489][134]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-20.29.42:492][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2018.05.12-20.29.42:493][134]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.29.42:493][134]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.05.12-20.29.42:493][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.004123s)
+[2018.05.12-20.29.42:511][134]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.29.42:518][134]LogInit: FAudioDevice initialized.
+[2018.05.12-20.29.42:570][134]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7b8d78, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.05.12-20.29.42:572][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e7b8d78, Size=52
+[2018.05.12-20.29.42:572][134]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7b8d78, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_18:ExecuteUbergraph_FirstPersonHUD
+[2018.05.12-20.29.42:574][134]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332e7b8790, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.05.12-20.29.42:582][134]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-20.29.42:584][134]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-22.29.42
+[2018.05.12-20.29.42:585][134]LogWorld: Bringing up level for play took: 0.001164
+[2018.05.12-20.29.42:587][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.12-20.29.42:590][134]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,072
+[2018.05.12-20.29.43:873][269]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.29.44:667][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-20.30.07:179][ 39]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e7b8d78, Size=52
+[2018.05.12-20.30.08:084][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.30.08:175][152]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-20.30.08:194][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-20.30.08:194][152]PIE: New page: PIE session: Level01 (13. mai 2018, 00.30.08)
+[2018.05.12-20.30.08:194][152]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-20.30.08:196][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002317s)
+[2018.05.12-20.30.08:197][152]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.30.08:197][152]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.05.12-20.30.08:197][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003135s)
+[2018.05.12-20.30.08:214][152]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.30.08:220][152]LogInit: FAudioDevice initialized.
+[2018.05.12-20.30.08:250][152]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-20.30.08:251][152]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-22.30.08
+[2018.05.12-20.30.08:252][152]LogWorld: Bringing up level for play took: 0.001114
+[2018.05.12-20.30.08:254][152]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 −0,264
+[2018.05.12-20.30.09:322][277]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.30.11:019][480]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-20.30.46:174][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.30.48:555][ 88]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.12-20.30.48:855][ 88]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.12-20.30.49:131][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000002338aabd968, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.12-20.30.49:131][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000002338aabd960, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.12-20.30.49:560][ 88]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.12-20.30.49:942][ 89]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.12-20.30.51:513][192]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.05.12-20.33.24:100][708]LogRenderer: Reallocating scene render targets to support 1072x904 Format 10 NumSamples 1 (Frame:1).
+[2018.05.12-20.33.27:606][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.33.31:197][545]BlueprintLog: New page: Compile MorphObject
+[2018.05.12-20.33.31:267][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332e7ace00, Size=272
+[2018.05.12-20.33.31:267][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339e512fc0, Size=272, Default__MorphObject_C Function /Engine/Transient.REINST_MorphObject_C_36:ExecuteUbergraph_MorphObject
+[2018.05.12-20.33.31:276][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339e510900, Size=272, Default__MorphObject_C Function /Game/FirstPersonBP/Blueprints/MorphObject.MorphObject_C:ExecuteUbergraph_MorphObject
+[2018.05.12-20.33.32:009][561]LogSavePackage: Save=98.51ms
+[2018.05.12-20.33.32:009][561]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/MorphObject2A5D6F1745A38621A1F6389B8616B7CA.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset'
+[2018.05.12-20.33.32:013][561]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset
+[2018.05.12-20.33.46:268][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-20.33.46:291][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-20.33.46:291][261]PIE: New page: PIE session: Level01 (13. mai 2018, 00.33.46)
+[2018.05.12-20.33.46:291][261]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-20.33.46:294][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002396s)
+[2018.05.12-20.33.46:294][261]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.33.46:294][261]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.05.12-20.33.46:294][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003281s)
+[2018.05.12-20.33.46:315][261]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339e512fc0, Size=272
+[2018.05.12-20.33.46:322][261]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.33.46:329][261]LogInit: FAudioDevice initialized.
+[2018.05.12-20.33.46:362][261]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-20.33.46:363][261]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-22.33.46
+[2018.05.12-20.33.46:363][261]LogWorld: Bringing up level for play took: 0.000802
+[2018.05.12-20.33.46:365][261]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 −0,152
+[2018.05.12-20.33.48:236][481]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.33.49:469][622]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-20.33.52:859][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.33.56:103][386]BlueprintLog: New page: Compile MorphObject
+[2018.05.12-20.33.56:172][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339e510900, Size=272
+[2018.05.12-20.33.56:172][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339c3702c0, Size=272, Default__MorphObject_C Function /Engine/Transient.REINST_MorphObject_C_40:ExecuteUbergraph_MorphObject
+[2018.05.12-20.33.56:181][386]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339e5102c0, Size=272, Default__MorphObject_C Function /Game/FirstPersonBP/Blueprints/MorphObject.MorphObject_C:ExecuteUbergraph_MorphObject
+[2018.05.12-20.33.57:027][419]LogSavePackage: Save=103.83ms
+[2018.05.12-20.33.57:027][419]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/MorphObject157A2558450AB3C95857968B98AAEB98.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset'
+[2018.05.12-20.33.57:030][419]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset
+[2018.05.12-20.34.11:155][ 24]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.12-20.34.11:265][ 24]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002332dc83900, Size=1072
+[2018.05.12-20.34.11:265][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x000002332a16b200, Size=1072, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_46:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.34.11:284][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339f42ab00, Size=1072, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.34.11:554][ 24]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339c3702c0, Size=272
+[2018.05.12-20.34.12:975][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-20.34.12:998][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-20.34.12:998][145]PIE: New page: PIE session: Level01 (13. mai 2018, 00.34.12)
+[2018.05.12-20.34.12:998][145]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-20.34.13:000][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002363s)
+[2018.05.12-20.34.13:001][145]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.34.13:001][145]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.05.12-20.34.13:001][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003136s)
+[2018.05.12-20.34.13:029][145]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.34.13:036][145]LogInit: FAudioDevice initialized.
+[2018.05.12-20.34.13:072][145]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-20.34.13:074][145]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-22.34.13
+[2018.05.12-20.34.13:074][145]LogWorld: Bringing up level for play took: 0.000991
+[2018.05.12-20.34.13:076][145]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,558
+[2018.05.12-20.34.13:929][244]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.34.14:974][368]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.34.15:614][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-20.34.24:276][458]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-20.34.25:226][571]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-20.35.11:337][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-20.35.11:421][985]LogSavePackage: Save=31.58ms
+[2018.05.12-20.35.11:421][985]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level012F2CE6774F3406FE61DF598D256D30AC.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-20.35.11:424][985]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-20.35.12:056][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.35.15:377][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-20.35.15:515][437]LogSavePackage: Save=98.72ms
+[2018.05.12-20.35.15:515][437]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/MorphObjectC8562EB948250E5F52B7FAAD943835E0.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset'
+[2018.05.12-20.35.15:517][437]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset
+[2018.05.12-20.35.30:460][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.35.31:386][281]LogSavePackage: Save=159.43ms
+[2018.05.12-20.35.31:386][281]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterCFAE9F204A20C79A2DA15D8F6929D4CB.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-20.35.31:391][281]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-20.36.05:847][128]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.12-20.36.05:957][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339f42ab00, Size=1072
+[2018.05.12-20.36.05:957][128]LogUObjectGlobals: Created PersistentFrame Addr=0x000002336af63900, Size=1072, FirstPersonCharacter_C_75 Function /Engine/Transient.REINST_FirstPersonCharacter_C_52:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.36.05:972][128]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.12-20.36.05:972][128]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.05.12-20.36.05:976][128]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023397917900, Size=1072, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.36.06:260][128]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0403,96] Compile of FirstPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 413 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.05.12-20.36.06:806][129]LogSavePackage: Save=157.38ms
+[2018.05.12-20.36.06:806][129]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter3CFBD914480857DB4D2AFBB7F0199C29.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-20.36.06:810][129]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-20.36.29:248][699]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.12-20.36.29:362][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023397917900, Size=1072
+[2018.05.12-20.36.29:362][699]LogUObjectGlobals: Created PersistentFrame Addr=0x000002333c3cb200, Size=1072, FirstPersonCharacter_C_77 Function /Engine/Transient.REINST_FirstPersonCharacter_C_58:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.36.29:381][699]LogUObjectGlobals: Created PersistentFrame Addr=0x000002339e4a0800, Size=1056, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.36.29:621][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002336af63900, Size=1072
+[2018.05.12-20.36.30:196][700]LogSavePackage: Save=147.36ms
+[2018.05.12-20.36.30:196][700]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter9BA1AC2C4D6846DBFC70338104866687.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-20.36.30:199][700]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-20.36.40:184][878]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-20.36.40:205][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-20.36.40:205][878]PIE: New page: PIE session: Level01 (13. mai 2018, 00.36.40)
+[2018.05.12-20.36.40:205][878]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-20.36.40:208][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2018.05.12-20.36.40:208][878]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-20.36.40:209][878]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2018.05.12-20.36.40:209][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003586s)
+[2018.05.12-20.36.40:230][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002333c3cb200, Size=1072
+[2018.05.12-20.36.40:240][878]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-20.36.40:248][878]LogInit: FAudioDevice initialized.
+[2018.05.12-20.36.40:284][878]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-20.36.40:285][878]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-22.36.40
+[2018.05.12-20.36.40:285][878]LogWorld: Bringing up level for play took: 0.000957
+[2018.05.12-20.36.40:287][878]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 −0,231
+[2018.05.12-20.36.49:026][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-20.36.50:042][978]LogSavePackage: Save=140.85ms
+[2018.05.12-20.36.50:042][978]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter38C3DFAD43285DBA2D0C1DB5B819B589.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-20.36.50:046][978]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-20.37.58:818][ 55]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.12-20.37.58:939][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339e4a0800, Size=1056
+[2018.05.12-20.37.58:939][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023391418100, Size=1056, FirstPersonCharacter_C_103 Function /Engine/Transient.REINST_FirstPersonCharacter_C_64:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.37.58:958][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000002333e4a6b00, Size=1056, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.12-20.38.00:353][138]LogSavePackage: Save=157.98ms
+[2018.05.12-20.38.00:353][138]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter4785775046E6139FEB7506BA9F695EF2.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-20.38.00:356][138]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-20.38.01:881][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023391418100, Size=1056
+[2018.05.12-20.38.01:928][306]LogSavePackage: Save=29.24ms
+[2018.05.12-20.38.01:928][306]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01DC534BF04ADF8D772E973A991877953A.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-20.38.01:931][306]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.09.27:455][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.09.27:533][ 84]LogSavePackage: Save=27.13ms
+[2018.05.12-21.09.27:533][ 84]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01F67042BA425CB9FE929AFCB3A428DDCE.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.09.27:535][ 84]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.09.28:530][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.09.28:605][193]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.09.28:625][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.09.28:625][193]PIE: New page: PIE session: Level01 (13. mai 2018, 01.09.28)
+[2018.05.12-21.09.28:625][193]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.09.28:628][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002660s)
+[2018.05.12-21.09.28:629][193]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.09.28:629][193]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2018.05.12-21.09.28:629][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.004205s)
+[2018.05.12-21.09.28:657][193]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.09.28:667][193]LogInit: FAudioDevice initialized.
+[2018.05.12-21.09.28:702][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.09.28:704][193]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.09.28
+[2018.05.12-21.09.28:705][193]LogWorld: Bringing up level for play took: 0.001546
+[2018.05.12-21.09.28:707][193]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,19
+[2018.05.12-21.09.41:548][701]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.09.42:700][839]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-21.09.52:488][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.09.52:554][984]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.09.52:574][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.09.52:575][984]PIE: New page: PIE session: Level01 (13. mai 2018, 01.09.52)
+[2018.05.12-21.09.52:575][984]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.09.52:577][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002194s)
+[2018.05.12-21.09.52:578][984]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.09.52:578][984]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.05.12-21.09.52:578][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003251s)
+[2018.05.12-21.09.52:606][984]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.09.52:612][984]LogInit: FAudioDevice initialized.
+[2018.05.12-21.09.52:646][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.09.52:647][984]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.09.52
+[2018.05.12-21.09.52:647][984]LogWorld: Bringing up level for play took: 0.000957
+[2018.05.12-21.09.52:649][984]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,132
+[2018.05.12-21.09.53:569][ 91]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.09.54:201][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-21.10.09:145][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.10.09:219][915]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.10.09:239][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.10.09:239][915]PIE: New page: PIE session: Level01 (13. mai 2018, 01.10.09)
+[2018.05.12-21.10.09:239][915]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.10.09:241][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002220s)
+[2018.05.12-21.10.09:242][915]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.10.09:242][915]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.05.12-21.10.09:242][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.002980s)
+[2018.05.12-21.10.09:270][915]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.10.09:278][915]LogInit: FAudioDevice initialized.
+[2018.05.12-21.10.09:310][915]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.10.09:311][915]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.10.09
+[2018.05.12-21.10.09:312][915]LogWorld: Bringing up level for play took: 0.001073
+[2018.05.12-21.10.09:314][915]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,796
+[2018.05.12-21.10.10:705][ 78]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.10.28:465][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.10.28:539][152]LogSavePackage: Save=27.67ms
+[2018.05.12-21.10.28:539][152]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01E77A90894117D675ED101EB288324391.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.10.28:540][152]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.10.34:093][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.10.34:164][804]LogSavePackage: Save=27.79ms
+[2018.05.12-21.10.34:164][804]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level017858AD8A4F7F318C3F7E35A03C44BF0F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.10.34:165][804]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.10.39:873][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.10.41:469][636]BlueprintLog: New page: Compile MorphObject
+[2018.05.12-21.10.41:537][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002339e5102c0, Size=272
+[2018.05.12-21.10.41:537][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000002333b40c680, Size=272, Default__MorphObject_C Function /Engine/Transient.REINST_MorphObject_C_68:ExecuteUbergraph_MorphObject
+[2018.05.12-21.10.41:546][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000002333b40f9c0, Size=272, Default__MorphObject_C Function /Game/FirstPersonBP/Blueprints/MorphObject.MorphObject_C:ExecuteUbergraph_MorphObject
+[2018.05.12-21.10.42:382][669]LogSavePackage: Save=95.83ms
+[2018.05.12-21.10.42:382][669]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/MorphObjectE752289F4D3392B41E1B969D598BC0D6.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset'
+[2018.05.12-21.10.42:385][669]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/MorphObject.uasset
+[2018.05.12-21.10.43:758][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.10.43:780][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.10.43:780][822]PIE: New page: PIE session: Level01 (13. mai 2018, 01.10.43)
+[2018.05.12-21.10.43:780][822]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.10.43:782][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002381s)
+[2018.05.12-21.10.43:783][822]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.10.43:783][822]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.05.12-21.10.43:783][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003338s)
+[2018.05.12-21.10.43:804][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002333b40c680, Size=272
+[2018.05.12-21.10.43:812][822]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.10.43:818][822]LogInit: FAudioDevice initialized.
+[2018.05.12-21.10.43:850][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.10.43:852][822]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.10.43
+[2018.05.12-21.10.43:852][822]LogWorld: Bringing up level for play took: 0.001033
+[2018.05.12-21.10.43:854][822]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 −0,664
+[2018.05.12-21.10.45:292][990]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.10.46:411][123]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-21.10.52:654][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.10.52:741][850]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.10.52:760][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.10.52:760][850]PIE: New page: PIE session: Level01 (13. mai 2018, 01.10.52)
+[2018.05.12-21.10.52:760][850]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.10.52:762][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002259s)
+[2018.05.12-21.10.52:763][850]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.10.52:763][850]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.05.12-21.10.52:763][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003163s)
+[2018.05.12-21.10.52:789][850]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.10.52:796][850]LogInit: FAudioDevice initialized.
+[2018.05.12-21.10.52:830][850]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.10.52:831][850]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.10.52
+[2018.05.12-21.10.52:831][850]LogWorld: Bringing up level for play took: 0.000832
+[2018.05.12-21.10.52:833][850]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,316
+[2018.05.12-21.10.54:580][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.11.06:151][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.11.06:223][385]LogSavePackage: Save=27.13ms
+[2018.05.12-21.11.06:223][385]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01ABC83B884DEDCE20A9BFA7BBB68B33F0.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.11.06:226][385]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.17.25:151][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.17.25:230][103]LogSavePackage: Save=27.90ms
+[2018.05.12-21.17.25:230][103]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01685DEFE3407C9635D2DAF29027120CDB.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.17.25:232][103]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.20.03:025][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.20.03:102][109]LogSavePackage: Save=27.68ms
+[2018.05.12-21.20.03:102][109]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01B6012C9A487B5D9B8AD79C8E10EC9759.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.20.03:103][109]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.20.05:262][300]LogSavePackage: Save=147.99ms
+[2018.05.12-21.20.05:262][300]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter54912EA64AC49D5A0EB33885FAF989C0.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.20.05:264][300]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.20.08:443][520]LogSavePackage: Save=142.91ms
+[2018.05.12-21.20.08:443][520]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterC7464BBC41D13C931480BAA96D347095.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.20.08:445][520]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.20.17:572][401]LogSavePackage: Save=143.20ms
+[2018.05.12-21.20.17:572][401]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter025C807D497312B8A62171910417CE19.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.20.17:573][401]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.20.28:921][889]LogSavePackage: Save=148.88ms
+[2018.05.12-21.20.28:921][889]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter3CD3F06F430C28B6FB9E69BBAE098A1E.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.20.28:924][889]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.21.06:821][302]LogSavePackage: Save=140.23ms
+[2018.05.12-21.21.06:821][302]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterEFEC520340CFD284E52A60A17F241B0C.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.21.06:823][302]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.21.09:501][526]LogSavePackage: Save=142.79ms
+[2018.05.12-21.21.09:501][526]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterEFBC9E3C4FDD9A230E345EA024ED55DD.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.21.09:503][526]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.25.46:169][ 42]LogSavePackage: Save=144.00ms
+[2018.05.12-21.25.46:169][ 42]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter12F72E534C73E1BA30CF6EA10DA7311C.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.25.46:171][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.26.18:387][577]LogSavePackage: Save=154.89ms
+[2018.05.12-21.26.18:387][577]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter98E8D40D4B178F656A9D39B03919BB0F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.26.18:390][577]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.26.48:073][ 15]LogSavePackage: Save=141.71ms
+[2018.05.12-21.26.48:073][ 15]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter9900C4BA40A7AB161179DE922C7868F0.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.26.48:076][ 15]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.29.30:562][723]LogSavePackage: Save=145.10ms
+[2018.05.12-21.29.30:562][723]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterE446D0144FE0D0E9EB6E3C9F070BC133.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.29.30:564][723]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.29.32:416][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.29.32:490][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-21.29.32:510][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-21.29.32:510][927]PIE: New page: PIE session: Level01 (13. mai 2018, 01.29.32)
+[2018.05.12-21.29.32:511][927]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.12-21.29.32:513][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002594s)
+[2018.05.12-21.29.32:514][927]LogAIModule: Creating AISystem for world Level01
+[2018.05.12-21.29.32:514][927]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.05.12-21.29.32:514][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.003666s)
+[2018.05.12-21.29.32:543][927]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-21.29.32:550][927]LogInit: FAudioDevice initialized.
+[2018.05.12-21.29.32:583][927]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.12-21.29.32:584][927]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.12-23.29.32
+[2018.05.12-21.29.32:584][927]LogWorld: Bringing up level for play took: 0.000989
+[2018.05.12-21.29.32:587][927]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,069
+[2018.05.12-21.29.35:469][267]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.12-21.29.36:005][331]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.36:511][391]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.38:022][567]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-21.29.38:527][627]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.12-21.29.38:934][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.39:559][749]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.41:274][952]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.12-21.29.42:514][100]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.43:233][186]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.12-21.29.44:070][286]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.44:673][358]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.45:511][458]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.12-21.29.46:231][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.12-21.29.47:461][691]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.48:497][815]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.48:966][871]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.49:327][914]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.49:833][974]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.50:503][ 54]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.51:166][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.29.51:576][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.53:174][371]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.54:166][489]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.12-21.29.54:978][586]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.12-21.30.02:544][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.30.02:623][444]LogSavePackage: Save=29.20ms
+[2018.05.12-21.30.02:623][444]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01EF38AF3D408EAE6506F996BD22CC46ED.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.30.02:626][444]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.30.06:637][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-21.30.06:711][884]LogSavePackage: Save=28.70ms
+[2018.05.12-21.30.06:711][884]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01F8346E64479BFCE5A8E87D9D0203AE88.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.30.06:712][884]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.30.09:161][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.30.09:669][173]LogSavePackage: Save=27.63ms
+[2018.05.12-21.30.09:669][173]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01D7C51F62437558D4F8BD78BD1C117F50.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.12-21.30.09:671][173]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.12-21.30.12:152][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-21.31.37:895][203]LogSavePackage: Save=140.77ms
+[2018.05.12-21.31.37:895][203]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter3EFCD1C34FF5A529D3122EB9FD324B8D.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.12-21.31.37:896][203]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: WidgetMapToItem length (11) does not match ItemsWithGeneratedWidgets length (14). This is often because the same item is in the list more than once in SSCSTreeType [SSCSEditor.cpp(3460)]. Diagnostics follow.
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: ItemToWidgetMap :
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac9540 -> 0x8e885620 @ SSCS_RowWidget_ActorRoot [SSCSEditor.cpp(3803)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac8dc0 -> 0x8f278120 @ SSCS_RowWidget_Separator [SSCSEditor.cpp(3807)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac8700 -> 0x3c2d20a0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4facaf80 -> 0x9ce90ba0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4facb040 -> 0x91628ba0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac8c40 -> 0x90f2b5a0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac9b40 -> 0x909d1620 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac8d00 -> 0x94984ba0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac8940 -> 0x3e3b1620 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac9300 -> 0x9023ab20 @ SSCS_RowWidget_Separator [SSCSEditor.cpp(3807)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x4fac9900 -> 0xbcc860a0 @ SSCS_RowWidget [SSCSEditor.cpp(3810)]
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: WidgetMapToItem:
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x8e885610 -> 0x4fac9540
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x8f278110 -> 0x4fac8dc0
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x3c2d2090 -> 0x4fac8700
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x9ce90b90 -> 0x4facaf80
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x91628b90 -> 0x4facb040
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x90f2b590 -> 0x4fac8c40
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x909d1610 -> 0x4fac9b40
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x94984b90 -> 0x4fac8d00
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x3e3b1610 -> 0x4fac8940
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0x9023ab10 -> 0x4fac9300
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 0xbcc86090 -> 0x4fac9900
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: 
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: ItemsWithGeneratedWidgets:
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: [0] 0x4fac9540
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: [1] 0x4fac8dc0
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: [2] 0x4fac8700
+[2018.05.12-21.31.54:953][716]LogSlate: Warning: [3] 0x4facaf80
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [4] 0x4facb040
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [5] 0x4fac8c40
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [6] 0x4fac9b40
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [7] 0x4fac8d00
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [8] 0x4fac8940
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [9] 0x4fac9b40
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [10] 0x4fac8d00
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [11] 0x4fac8940
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [12] 0x4fac9300
+[2018.05.12-21.31.54:954][716]LogSlate: Warning: [13] 0x4fac9900
+[2018.05.12-21.31.54:954][716]LogSCSEditor: ---------------------
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  STreeView NODE DUMP
+[2018.05.12-21.31.54:954][716]LogSCSEditor: ---------------------
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  [BLUEPRINT] FirstPersonCharacter (self)
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  [SEPARATOR]
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  CapsuleComponent (Inherited)
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  +- ArrowComponent (Inherited)
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  +- Mesh (Inherited)
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  +- FirstPersonCamera
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |  +- Mesh2P
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |     |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |     +- FP_Gun
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |        |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |        +- Sphere
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |        
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  +- Mesh2P
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |  +- FP_Gun
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |     |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |     +- Sphere
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |     
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  [SEPARATOR]
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  |
+[2018.05.12-21.31.54:954][716]LogSCSEditor:  CharacterMovement (Inherited)
+[2018.05.12-21.31.54:954][716]LogSCSEditor: --------(end)--------
+[2018.05.12-21.31.54:954][716]LogWindows: Windows GetLastError: Operasjonen er utført. (0)
