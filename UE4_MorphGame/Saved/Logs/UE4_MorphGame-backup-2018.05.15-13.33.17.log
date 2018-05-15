@@ -1,0 +1,1616 @@
+﻿Log file open, 05/15/18 12:53:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UE4_MorphGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1679171449) SRandInit(-1679171449).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167891
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.706s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Magnus-Pc (192.168.10.139:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.15-10.53.48:928][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-10.53.48:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.15-10.53.48:940][  0]LogInit: Computer: MAGNUS-PC
+[2018.05.15-10.53.48:940][  0]LogInit: User: Magnus
+[2018.05.15-10.53.48:940][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.15-10.53.48:940][  0]LogInit: High frequency timer resolution =3.117190 MHz
+[2018.05.15-10.53.48:941][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.15-10.53.48:941][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.15-10.53.48:941][  0]LogMemory: Process Physical Memory: 274.63 MB used, 274.63 MB peak
+[2018.05.15-10.53.48:941][  0]LogMemory: Process Virtual Memory: 264.13 MB used, 264.13 MB peak
+[2018.05.15-10.53.48:941][  0]LogMemory: Physical Memory: 4479.69 MB used,  11857.16 MB free, 16336.84 MB total
+[2018.05.15-10.53.48:941][  0]LogMemory: Virtual Memory: 4782.91 MB used,  11857.16 MB free, 134217728.00 MB total
+[2018.05.15-10.53.48:956][  0]LogInit: Using OS detected language (nb-NO).
+[2018.05.15-10.53.48:956][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.05.15-10.53.48:958][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.05.15-10.53.49:371][  0]LogStreaming: Display: Took  0.416s to EndInitTextLocalization.
+[2018.05.15-10.53.49:371][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.15-10.53.49:422][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.15-10.53.49:422][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.15-10.53.49:604][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.15-10.53.49:655][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.15-10.53.49:655][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.05.15-10.53.49:656][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.15-10.53.49:656][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.15-10.53.49:656][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.15-10.53.49:661][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.15-10.53.49:661][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.15-10.53.49:661][  0]LogWindows: EnumDisplayDevices:
+[2018.05.15-10.53.49:662][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.15-10.53.49:662][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.15-10.53.49:662][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.15-10.53.49:662][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-10.53.49:662][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.15-10.53.49:662][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.15-10.53.49:662][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.15-10.53.49:662][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.15-10.53.49:662][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.15-10.53.49:691][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.15-10.53.49:691][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.15-10.53.49:691][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.15-10.53.49:747][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.15-10.53.49:791][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Intermediate/Shaders/WorkingDirectory/9924/).
+[2018.05.15-10.53.49:791][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Magnus/AppData/Local/Temp/UnrealShaderWorkingDir/152431F447CEA6A67B63AFB5C1009000/'.
+[2018.05.15-10.53.50:884][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.15-10.53.50:897][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.15-10.53.50:910][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.15-10.53.50:923][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.15-10.53.50:936][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.15-10.53.50:949][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.15-10.53.50:962][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.15-10.53.50:976][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.15-10.53.50:981][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.15-10.53.50:993][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.15-10.53.51:005][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.15-10.53.51:016][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.15-10.53.51:028][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.15-10.53.51:040][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.15-10.53.51:052][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.15-10.53.51:077][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.15-10.53.51:077][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.15-10.53.51:089][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.15-10.53.51:090][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.15-10.53.51:126][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.15-10.53.51:138][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.15-10.53.51:149][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.15-10.53.51:161][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.15-10.53.51:174][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.15-10.53.51:187][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.15-10.53.51:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.15-10.53.51:258][  0]LogXGEController: Cleaning working directory: C:/Users/Magnus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.15-10.53.51:258][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.15-10.53.51:259][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.15-10.53.51:259][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.15-10.53.51:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.15-10.53.51:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.15-10.53.51:963][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.15-10.53.51:976][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Magnus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.15-10.53.51:976][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.15-10.53.51:976][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.15-10.53.51:987][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.15-10.53.51:987][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.15-10.53.51:988][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-10.53.51:988][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-10.53.52:102][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.05.15-10.53.52:414][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-10.53.52:548][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.15-10.53.52:550][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.15-10.53.52:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.15-10.53.52:550][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.15-10.53.52:550][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.15-10.53.52:550][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.15-10.53.52:595][  0]LogNetVersion: UE4_MorphGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1931843701)
+[2018.05.15-10.53.53:042][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.048523 seconds
+[2018.05.15-10.53.53:049][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.15-10.53.53:049][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.15-10.53.53:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.15-10.53.54:588][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.15-10.53.54:611][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.15-10.53.54:862][  0]SourceControl: Source control is disabled
+[2018.05.15-10.53.54:862][  0]SourceControl: Source control is disabled
+[2018.05.15-10.53.54:874][  0]SourceControl: Source control is disabled
+[2018.05.15-10.53.54:885][  0]SourceControl: Source control is disabled
+[2018.05.15-10.53.55:222][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.15-10.53.55:344][  0]LogOcInput: OculusInput pre-init called
+[2018.05.15-10.53.55:437][  0]LogEngine: Initializing Engine...
+[2018.05.15-10.53.55:438][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.15-10.53.55:440][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-10.53.55:440][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-10.53.55:644][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.15-10.53.55:662][  0]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.15-10.53.55:675][  0]LogInit: FAudioDevice initialized.
+[2018.05.15-10.53.55:743][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Magnus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-10.53.55:756][  0]LogInit: Texture streaming: Enabled
+[2018.05.15-10.53.55:767][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.15-10.53.55:781][  0]LogInit: Transaction tracking system initialized
+[2018.05.15-10.53.55:797][  0]BlueprintLog: New page: Editor Load
+[2018.05.15-10.53.55:845][  0]LocalizationService: Localization service is disabled
+[2018.05.15-10.53.55:902][  0]LogLinker: Warning: Can't find file '/Game/Character_BP/ThirdPersonOverview'
+[2018.05.15-10.53.55:903][  0]LogLinker: Warning: Can't find file '/Game/Character_BP/ThirdPersonOverview'
+[2018.05.15-10.53.55:903][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Character_BP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.05.15-10.53.55:919][  0]LogConsoleResponse: Display: 
+[2018.05.15-10.53.56:065][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.15-10.53.56:065][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.15-10.53.56:065][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.15-10.53.56:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-10.53.56:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-10.53.56:297][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/' took 0.01s
+[2018.05.15-10.53.56:298][  0]SourceControl: Source control is disabled
+[2018.05.15-10.53.56:298][  0]Cmd: MAP LOAD FILE="C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.15-10.53.56:298][  0]LightingResults: New page: Lighting Build
+[2018.05.15-10.53.56:300][  0]MapCheck: New page: Map Check
+[2018.05.15-10.53.56:300][  0]LightingResults: New page: Lighting Build
+[2018.05.15-10.53.56:424][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8434337e0, Size=160, Default__BP_BrokenDoor_C Function /Game/FirstPersonBP/Blueprints/BP_BrokenDoor.BP_BrokenDoor_C:ExecuteUbergraph_BP_BrokenDoor
+[2018.05.15-10.53.56:427][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8434337e0, Size=160
+[2018.05.15-10.53.56:427][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843431e40, Size=160, Default__BP_BrokenDoor_C Function /Engine/Transient.REINST_BP_BrokenDoor_C_5:ExecuteUbergraph_BP_BrokenDoor
+[2018.05.15-10.53.56:428][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8434311c0, Size=160, Default__BP_BrokenDoor_C Function /Game/FirstPersonBP/Blueprints/BP_BrokenDoor.BP_BrokenDoor_C:ExecuteUbergraph_BP_BrokenDoor
+[2018.05.15-10.53.56:439][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843442500, Size=256, Default__BP_LargeBox_C Function /Game/FirstPersonBP/Blueprints/BP_LargeBox.BP_LargeBox_C:ExecuteUbergraph_BP_LargeBox
+[2018.05.15-10.53.56:442][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843442500, Size=256
+[2018.05.15-10.53.56:442][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843442500, Size=256, Default__BP_LargeBox_C Function /Engine/Transient.REINST_BP_LargeBox_C_7:ExecuteUbergraph_BP_LargeBox
+[2018.05.15-10.53.56:444][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843440900, Size=256, Default__BP_LargeBox_C Function /Game/FirstPersonBP/Blueprints/BP_LargeBox.BP_LargeBox_C:ExecuteUbergraph_BP_LargeBox
+[2018.05.15-10.53.56:448][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843442700, Size=256, Default__BP_LongBox_C Function /Game/FirstPersonBP/Blueprints/BP_LongBox.BP_LongBox_C:ExecuteUbergraph_BP_LongBox
+[2018.05.15-10.53.56:451][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843442700, Size=256
+[2018.05.15-10.53.56:451][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843442700, Size=256, Default__BP_LongBox_C Function /Engine/Transient.REINST_BP_LongBox_C_9:ExecuteUbergraph_BP_LongBox
+[2018.05.15-10.53.56:453][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843440100, Size=256, Default__BP_LongBox_C Function /Game/FirstPersonBP/Blueprints/BP_LongBox.BP_LongBox_C:ExecuteUbergraph_BP_LongBox
+[2018.05.15-10.53.56:459][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343c700, Size=256, Default__BP_NormalBox_C Function /Game/FirstPersonBP/Blueprints/BP_NormalBox.BP_NormalBox_C:ExecuteUbergraph_BP_NormalBox
+[2018.05.15-10.53.56:462][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343c700, Size=256
+[2018.05.15-10.53.56:462][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343c700, Size=256, Default__BP_NormalBox_C Function /Engine/Transient.REINST_BP_NormalBox_C_11:ExecuteUbergraph_BP_NormalBox
+[2018.05.15-10.53.56:464][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343da00, Size=256, Default__BP_NormalBox_C Function /Game/FirstPersonBP/Blueprints/BP_NormalBox.BP_NormalBox_C:ExecuteUbergraph_BP_NormalBox
+[2018.05.15-10.53.56:468][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343c900, Size=256, Default__BP_SmallBox_C Function /Game/FirstPersonBP/Blueprints/BP_SmallBox.BP_SmallBox_C:ExecuteUbergraph_BP_SmallBox
+[2018.05.15-10.53.56:472][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343c900, Size=256
+[2018.05.15-10.53.56:472][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343c900, Size=256, Default__BP_SmallBox_C Function /Engine/Transient.REINST_BP_SmallBox_C_13:ExecuteUbergraph_BP_SmallBox
+[2018.05.15-10.53.56:474][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84343f200, Size=256, Default__BP_SmallBox_C Function /Game/FirstPersonBP/Blueprints/BP_SmallBox.BP_SmallBox_C:ExecuteUbergraph_BP_SmallBox
+[2018.05.15-10.53.56:503][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8433909f0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.15-10.53.56:514][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8433909f0, Size=72
+[2018.05.15-10.53.56:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84331a430, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.15-10.53.56:524][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842951490, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.05.15-10.53.56:531][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842937d80, Size=272, Default__BP_MorphObject_C Function /Game/FirstPersonBP/Blueprints/BP_MorphObject.BP_MorphObject_C:ExecuteUbergraph_BP_MorphObject
+[2018.05.15-10.53.56:535][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d84291cf00, Size=1568, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.15-10.53.56:624][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842937d80, Size=272
+[2018.05.15-10.53.56:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8430f47c0, Size=272, Default__BP_MorphObject_C Function /Engine/Transient.REINST_BP_MorphObject_C_16:ExecuteUbergraph_BP_MorphObject
+[2018.05.15-10.53.56:625][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84291cf00, Size=1568
+[2018.05.15-10.53.56:625][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842c08f00, Size=1568, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_17:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.15-10.53.56:650][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842bd9080, Size=272, Default__BP_MorphObject_C Function /Game/FirstPersonBP/Blueprints/BP_MorphObject.BP_MorphObject_C:ExecuteUbergraph_BP_MorphObject
+[2018.05.15-10.53.56:656][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d846a1f200, Size=1568, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.15-10.53.56:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842ae2800, Size=480, Default__BP_Button_C Function /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.05.15-10.53.56:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842ae2800, Size=480
+[2018.05.15-10.53.56:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843196e00, Size=480, Default__BP_Button_C Function /Engine/Transient.REINST_BP_Button_C_20:ExecuteUbergraph_BP_Button
+[2018.05.15-10.53.56:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d843195400, Size=480, Default__BP_Button_C Function /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button_C:ExecuteUbergraph_BP_Button
+[2018.05.15-10.53.56:697][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842b74680, Size=560, Default__BP_NormalDoor_C Function /Game/FirstPersonBP/Blueprints/BP_NormalDoor.BP_NormalDoor_C:ExecuteUbergraph_BP_NormalDoor
+[2018.05.15-10.53.56:701][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842b74680, Size=560
+[2018.05.15-10.53.56:701][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842b74680, Size=560, Default__BP_NormalDoor_C Function /Engine/Transient.REINST_BP_NormalDoor_C_22:ExecuteUbergraph_BP_NormalDoor
+[2018.05.15-10.53.56:705][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d842b77d80, Size=560, Default__BP_NormalDoor_C Function /Game/FirstPersonBP/Blueprints/BP_NormalDoor.BP_NormalDoor_C:ExecuteUbergraph_BP_NormalDoor
+[2018.05.15-10.53.56:714][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8469c2e00, Size=648, Default__BP_PuzzleDoor1_C Function /Game/FirstPersonBP/Blueprints/BP_PuzzleDoor1.BP_PuzzleDoor1_C:ExecuteUbergraph_BP_PuzzleDoor1
+[2018.05.15-10.53.56:719][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8469c2e00, Size=648
+[2018.05.15-10.53.56:719][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8469c2e00, Size=648, Default__BP_PuzzleDoor1_C Function /Engine/Transient.REINST_BP_PuzzleDoor1_C_24:ExecuteUbergraph_BP_PuzzleDoor1
+[2018.05.15-10.53.56:724][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d846983100, Size=648, Default__BP_PuzzleDoor1_C Function /Game/FirstPersonBP/Blueprints/BP_PuzzleDoor1.BP_PuzzleDoor1_C:ExecuteUbergraph_BP_PuzzleDoor1
+[2018.05.15-10.53.56:730][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8469e1910, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.05.15-10.53.56:732][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8469e1910, Size=52
+[2018.05.15-10.53.56:732][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8469e1910, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_26:ExecuteUbergraph_FirstPersonHUD
+[2018.05.15-10.53.56:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8469e1d38, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.05.15-10.53.56:938][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.618522ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.05.15-10.53.56:947][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.628069ms] /Game/FirstPerson/Meshes/SM_Gun.SM_Gun
+[2018.05.15-10.53.57:139][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.350957ms] /Game/Geometry/Meshes/MorphTargets/SK_MorphBox.SK_MorphBox
+[2018.05.15-10.53.57:225][  0]LogAIModule: Creating AISystem for world Level01
+[2018.05.15-10.53.57:258][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.15-10.53.57:278][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843431e40, Size=160
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843442500, Size=256
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843442700, Size=256
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343c700, Size=256
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343c900, Size=256
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84331a430, Size=72
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8430f47c0, Size=272
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842c08f00, Size=1568
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843196e00, Size=480
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842b74680, Size=560
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8469c2e00, Size=648
+[2018.05.15-10.53.57:279][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8469e1910, Size=52
+[2018.05.15-10.53.57:280][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.15-10.53.57:330][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49,815ms to complete.
+[2018.05.15-10.53.57:331][  0]LogFileHelpers: Loading map 'Level01' took 1.032
+[2018.05.15-10.53.57:490][  0]LogCollectionManager: Loaded 0 collections in 0.000856 seconds
+[2018.05.15-10.53.57:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Collections/' took 0.01s
+[2018.05.15-10.53.57:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Developers/Magnus/Collections/' took 0.01s
+[2018.05.15-10.53.57:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Collections/' took 0.01s
+[2018.05.15-10.53.57:549][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.15-10.53.57:559][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2452 classes and 558 folders.
+[2018.05.15-10.53.57:564][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-10.53.57:594][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-10.53.57:644][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.15-10.53.57:714][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.15-10.53.57:716][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.15-10.53.57:717][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.15-10.53.57:814][  0]LogRenderer: Reallocating scene render targets to support 848x904 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-10.53.57:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.15-10.53.57:943][  0]LogLoad: (Engine Initialization) Total time: 10.70 seconds
+[2018.05.15-10.53.57:944][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.15-10.53.58:303][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.15-10.53.58:319][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-10.53.58:624][  1]LogAssetRegistry: Asset discovery search completed in 6.5444 seconds
+[2018.05.15-10.53.58:626][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.15-10.53.58:626][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.05.15-10.53.59:286][  3]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-10.54.00:281][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-10.54.19:000][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-10.54.19:068][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-10.54.19:086][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.19:086][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-10.54.19:087][219]PIE: New page: PIE session: Level01 (15. mai 2018, 14.54.19)
+[2018.05.15-10.54.19:087][219]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.15-10.54.19:108][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022519s)
+[2018.05.15-10.54.19:109][219]LogAIModule: Creating AISystem for world Level01
+[2018.05.15-10.54.19:109][219]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.05.15-10.54.19:109][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.023291s)
+[2018.05.15-10.54.19:129][219]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.15-10.54.19:137][219]LogInit: FAudioDevice initialized.
+[2018.05.15-10.54.19:183][219]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.15-10.54.19:193][219]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.15-12.54.19
+[2018.05.15-10.54.19:194][219]LogWorld: Bringing up level for play took: 0.009745
+[2018.05.15-10.54.19:198][219]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.15-10.54.19:200][219]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,053
+[2018.05.15-10.54.19:201][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.21:217][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.21:252][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.22:633][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.54.28:055][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.28:055][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-10.54.28:055][245]PIE: New page: PIE session: Level01 (15. mai 2018, 14.54.28)
+[2018.05.15-10.54.28:055][245]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.15-10.54.28:077][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022097s)
+[2018.05.15-10.54.28:078][245]LogAIModule: Creating AISystem for world Level01
+[2018.05.15-10.54.28:078][245]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.05.15-10.54.28:078][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.023021s)
+[2018.05.15-10.54.28:099][245]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.15-10.54.28:112][245]LogInit: FAudioDevice initialized.
+[2018.05.15-10.54.28:137][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.54.28:224][245]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.15-10.54.28:235][245]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.15-12.54.28
+[2018.05.15-10.54.28:236][245]LogWorld: Bringing up level for play took: 0.010919
+[2018.05.15-10.54.28:241][245]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 1,094
+[2018.05.15-10.54.28:242][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.54.28:271][245]LogRenderer: Reallocating scene render targets to support 1292x904 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-10.55.09:856][214]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.15-10.55.10:539][296]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LongBox
+[2018.05.15-10.55.11:606][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.15-10.55.13:198][615]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.15-10.55.42:524][119]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.15-10.55.52:470][311]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.15-10.55.56:214][760]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.15-10.55.56:707][819]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.15-10.56.01:811][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.56.01:829][431]LogSlate: Window 'UE4_MorphGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.15-10.56.01:860][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-10.56.21:925][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.56.22:351][638]LogSavePackage: Save=385.75ms
+[2018.05.15-10.56.22:351][638]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level014351E6B54142B7B6C13D4A918261AC47.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-10.56.22:354][638]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-10.56.22:523][638]LogSavePackage: Save=122.03ms
+[2018.05.15-10.56.22:523][638]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataEBEC4012464028E55112F5B98DD7D588.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-10.56.22:524][638]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-10.56.36:427][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.56.36:833][256]LogSavePackage: Save=382.45ms
+[2018.05.15-10.56.36:833][256]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0175C2D64649229971B4332D93A084023F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-10.56.36:836][256]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-10.56.36:968][256]LogSavePackage: Save=87.68ms
+[2018.05.15-10.56.36:968][256]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataC841F8274A714544DB2A18B08C64BA33.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-10.56.36:969][256]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-10.56.43:183][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.56.51:292][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-10.56.56:105][369]Cmd: SELECT NONE
+[2018.05.15-10.57.01:135][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-10.57.01:686][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.57.02:513][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-10.57.02:979][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.57.04:352][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-10.57.06:424][494]Cmd: DELETE
+[2018.05.15-10.57.06:424][494]Cmd: ACTOR DELETE
+[2018.05.15-10.57.06:432][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-10.57.06:444][494]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.15-10.57.06:763][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.07:831][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.08:939][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.12:364][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.57.13:428][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-10.57.14:735][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.57.15:266][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.19:719][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.57.20:721][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.21:434][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.25:376][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-10.57.32:276][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.35:206][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.36:389][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.57.40:713][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.57.41:809][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.43:137][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.57.45:679][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.47:208][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-10.57.49:320][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-10.57.51:377][269]Cmd: SELECT NONE
+[2018.05.15-10.57.54:499][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-10.57.56:526][834]Cmd: SELECT NONE
+[2018.05.15-10.58.01:455][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.58.06:226][943]Cmd: SELECT NONE
+[2018.05.15-10.58.08:379][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.58.10:751][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.58.14:126][723]Cmd: SELECT NONE
+[2018.05.15-10.58.18:466][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.58.18:880][230]LogSavePackage: Save=384.69ms
+[2018.05.15-10.58.18:880][230]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0199F651C547D4A7D2713CF8A14C4B8561.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-10.58.18:882][230]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-10.58.19:013][230]LogSavePackage: Save=89.74ms
+[2018.05.15-10.58.19:013][230]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData383491684B6F8C8B913329A9DA176FB6.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-10.58.19:014][230]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-10.58.29:425][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.58.29:850][468]LogSavePackage: Save=400.71ms
+[2018.05.15-10.58.29:850][468]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01BA24C1714E599EAF4FA8E2BA494358B5.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-10.58.29:852][468]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-10.58.29:981][468]LogSavePackage: Save=89.16ms
+[2018.05.15-10.58.29:981][468]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataA4CCC6BF4DDBA9FEC37E99B5976BD58F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-10.58.29:983][468]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-10.58.32:528][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.58.35:623][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.58.36:790][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x80)
+[2018.05.15-10.58.37:594][268]Cmd: EDIT COPY
+[2018.05.15-10.58.37:782][279]Cmd: EDIT PASTE
+[2018.05.15-10.58.42:715][793]Cmd: SELECT NONE
+[2018.05.15-10.58.48:290][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.58.51:221][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.58.53:310][962]Cmd: SELECT NONE
+[2018.05.15-10.58.54:511][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.59.02:163][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-10.59.04:221][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-10.59.06:914][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-10.59.07:562][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-10.59.08:625][662]Cmd: DELETE
+[2018.05.15-10.59.08:625][662]Cmd: ACTOR DELETE
+[2018.05.15-10.59.08:632][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-10.59.08:644][662]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.15-10.59.09:190][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.59.13:574][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-10.59.14:148][283]Cmd: DELETE
+[2018.05.15-10.59.14:148][283]Cmd: ACTOR DELETE
+[2018.05.15-10.59.14:155][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-10.59.14:167][283]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.15-10.59.14:582][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-10.59.15:126][390]Cmd: EDIT COPY
+[2018.05.15-10.59.15:327][413]Cmd: EDIT PASTE
+[2018.05.15-10.59.17:348][642]Cmd: SELECT NONE
+[2018.05.15-10.59.22:966][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-10.59.28:564][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x80)
+[2018.05.15-10.59.32:491][357]Cmd: SELECT NONE
+[2018.05.15-10.59.39:377][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x76)
+[2018.05.15-10.59.41:783][428]Cmd: SELECT NONE
+[2018.05.15-10.59.43:191][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x74)
+[2018.05.15-10.59.44:949][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x57)
+[2018.05.15-10.59.48:097][134]Cmd: TRANSACTION UNDO
+[2018.05.15-10.59.48:097][134]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.15-10.59.48:570][176]Cmd: TRANSACTION UNDO
+[2018.05.15-10.59.48:570][176]LogEditorTransaction: Undo Move Actors
+[2018.05.15-10.59.50:123][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x76)
+[2018.05.15-10.59.51:475][488]Cmd: SELECT NONE
+[2018.05.15-10.59.52:866][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-10.59.53:273][643]LogSavePackage: Save=379.29ms
+[2018.05.15-10.59.53:274][643]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01249D0A1C4C22079C72B65582F7171C67.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-10.59.53:276][643]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-10.59.53:407][643]LogSavePackage: Save=90.06ms
+[2018.05.15-10.59.53:407][643]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData0B8418E8457877AA0C99D3B6A2E0988B.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-10.59.53:408][643]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.02:264][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.02:671][691]LogSavePackage: Save=381.66ms
+[2018.05.15-11.00.02:671][691]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01E89B746B4130BE71E42D39AE3D13E0F9.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.00.02:674][691]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.00.02:802][691]LogSavePackage: Save=88.14ms
+[2018.05.15-11.00.02:802][691]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataC01FB5EB40CFA52A5428728C5C27F968.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.00.02:804][691]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.09:239][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.09:657][454]LogSavePackage: Save=394.24ms
+[2018.05.15-11.00.09:657][454]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level018E74CD9A4433B36EFD2C6A94DD5A5F9F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.00.09:660][454]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.00.09:789][454]LogSavePackage: Save=87.19ms
+[2018.05.15-11.00.09:789][454]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData3FE1EE2A4ABD4809E68F78A46DB25DC5.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.00.09:790][454]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.15:640][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.16:057][143]LogSavePackage: Save=391.75ms
+[2018.05.15-11.00.16:058][143]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0183551DF743819B265DB34A8147DC6E38.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.00.16:060][143]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.00.16:195][143]LogSavePackage: Save=90.71ms
+[2018.05.15-11.00.16:195][143]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData5F3585A046A1963364CAFE99D259FD29.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.00.16:196][143]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.19:561][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.20:774][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.21:183][642]LogSavePackage: Save=381.36ms
+[2018.05.15-11.00.21:183][642]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level013EEDBD474E6114AB1A2ACC9208FA50ED.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.00.21:185][642]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.00.21:317][642]LogSavePackage: Save=88.91ms
+[2018.05.15-11.00.21:317][642]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData80E5E8A94CA8B1414BF3E5AC8B7962F9.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.00.21:318][642]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.25:227][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x79)
+[2018.05.15-11.00.27:313][318]Cmd: SELECT NONE
+[2018.05.15-11.00.28:780][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-11.00.30:524][649]Cmd: SELECT NONE
+[2018.05.15-11.00.35:917][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.00.36:328][274]LogSavePackage: Save=382.60ms
+[2018.05.15-11.00.36:328][274]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0118760ADE4060BE70E711379D54784466.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.00.36:330][274]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.00.36:458][274]LogSavePackage: Save=87.79ms
+[2018.05.15-11.00.36:459][274]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataCCA4FCA74BE0856FE68622A34C5E3E89.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.00.36:460][274]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.00.37:889][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.00.37:963][433]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.15-11.00.37:980][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.00.37:980][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-11.00.37:980][433]PIE: New page: PIE session: Level01 (15. mai 2018, 15.00.37)
+[2018.05.15-11.00.37:980][433]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.15-11.00.38:003][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022481s)
+[2018.05.15-11.00.38:003][433]LogAIModule: Creating AISystem for world Level01
+[2018.05.15-11.00.38:004][433]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2018.05.15-11.00.38:004][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.023590s)
+[2018.05.15-11.00.38:027][433]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.15-11.00.38:034][433]LogInit: FAudioDevice initialized.
+[2018.05.15-11.00.38:143][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.15-11.00.38:153][433]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.15-13.00.38
+[2018.05.15-11.00.38:153][433]LogWorld: Bringing up level for play took: 0.009761
+[2018.05.15-11.00.38:159][433]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 1,011
+[2018.05.15-11.00.38:159][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.01.16:070][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.01.16:089][874]LogSlate: Window 'UE4_MorphGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.15-11.01.16:120][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.01.16:864][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.01.17:273][951]LogSavePackage: Save=381.04ms
+[2018.05.15-11.01.17:273][951]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01D302C3A4449BA9915F9F048C23ED7EF5.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.01.17:276][951]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.01.17:413][951]LogSavePackage: Save=92.54ms
+[2018.05.15-11.01.17:413][951]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData4321D74748481337584FC9B91012DF1B.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.01.17:415][951]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.01.17:644][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.01.19:236][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.15-11.01.19:531][113]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8c3b35050, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-11.01.19:532][113]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8c3b35048, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.15-11.01.19:956][113]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.15-11.01.20:284][114]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.15-11.01.41:681][615]LogSavePackage: Save=144.94ms
+[2018.05.15-11.01.41:681][615]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter00B629634D6ED46E077DCE94745D528C.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.15-11.01.41:684][615]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.15-11.01.44:940][875]LogSavePackage: Save=135.51ms
+[2018.05.15-11.01.44:940][875]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterF9B7BE814CB437D2D79D55BEC152A3AB.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.15-11.01.44:942][875]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.15-11.01.56:336][ 29]LogSavePackage: Save=136.52ms
+[2018.05.15-11.01.56:336][ 29]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter28685CE64DB4F7D6093BCCA4CEF1C38A.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.15-11.01.56:337][ 29]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.15-11.02.03:344][828]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.15-11.02.03:452][828]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d846a1f200, Size=1568
+[2018.05.15-11.02.03:452][828]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8c7a64800, Size=1568, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_96:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.15-11.02.03:473][828]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8c7b23200, Size=1536, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.05.15-11.02.04:243][829]LogSavePackage: Save=138.37ms
+[2018.05.15-11.02.04:243][829]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacter510E28854C1D46D8105744BCC3AC33EE.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.15-11.02.04:245][829]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.15-11.03.01:052][516]LogSavePackage: Save=140.12ms
+[2018.05.15-11.03.01:052][516]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/FirstPersonCharacterCE83393E49A92E01ACCB849A7B243588.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.15-11.03.01:053][516]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.15-11.05.52:143][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.05.54:042][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.05.54:524][177]LogSavePackage: Save=428.76ms
+[2018.05.15-11.05.54:524][177]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01686291AD4BD79001476BCE84C0E14EAF.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.05.54:529][177]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.05.54:684][177]LogSavePackage: Save=101.85ms
+[2018.05.15-11.05.54:684][177]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData522B302C47405BA4AEDD848A62324113.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.05.54:685][177]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.06.00:733][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.06.01:200][849]LogSavePackage: Save=424.33ms
+[2018.05.15-11.06.01:200][849]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01180068C549DECAE19D13418C1A123DE1.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.06.01:203][849]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.06.01:344][849]LogSavePackage: Save=97.19ms
+[2018.05.15-11.06.01:344][849]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataC1295602471169A1C16283A541B95C9D.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.06.01:346][849]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.06.03:208][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.06.03:669][ 36]LogSavePackage: Save=424.02ms
+[2018.05.15-11.06.03:669][ 36]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level017ADAC2414D302465E9204BADA092FD82.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.06.03:672][ 36]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.06.03:811][ 36]LogSavePackage: Save=97.44ms
+[2018.05.15-11.06.03:811][ 36]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData2BEC78544E1F1C8E90CB129D2B6FAE92.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.06.03:812][ 36]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.10.05:732][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x76)
+[2018.05.15-11.10.06:900][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x104)
+[2018.05.15-11.10.07:455][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x105)
+[2018.05.15-11.10.07:908][828]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x103)
+[2018.05.15-11.10.08:290][857]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x102)
+[2018.05.15-11.10.09:304][930]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x93)
+[2018.05.15-11.10.09:661][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x92)
+[2018.05.15-11.10.10:467][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x91)
+[2018.05.15-11.10.10:833][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x90)
+[2018.05.15-11.10.12:073][153]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x101)
+[2018.05.15-11.10.12:511][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x100)
+[2018.05.15-11.10.12:892][210]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x99)
+[2018.05.15-11.10.13:240][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x98)
+[2018.05.15-11.10.14:300][341]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x97)
+[2018.05.15-11.10.14:687][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x96)
+[2018.05.15-11.10.15:572][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x95)
+[2018.05.15-11.10.16:207][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x94)
+[2018.05.15-11.10.17:464][609]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x79)
+[2018.05.15-11.10.18:150][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-11.10.19:210][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-11.10.19:635][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x80)
+[2018.05.15-11.10.20:594][890]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-11.10.21:076][933]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-11.10.21:989][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x77)
+[2018.05.15-11.10.22:696][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x54)
+[2018.05.15-11.10.23:815][175]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-11.10.24:759][258]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x55)
+[2018.05.15-11.10.25:196][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x78)
+[2018.05.15-11.10.26:210][382]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x56)
+[2018.05.15-11.10.26:645][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x57)
+[2018.05.15-11.10.27:733][511]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x74)
+[2018.05.15-11.10.31:851][889]Cmd: TRANSACTION UNDO
+[2018.05.15-11.10.31:851][889]LogEditorTransaction: Undo Move Actors
+[2018.05.15-11.10.31:856][889]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.SM_Floor1x96.StaticMeshComponent0) Component already registered.
+[2018.05.15-11.10.31:857][889]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.SM_Floor2x74.StaticMeshComponent0) Component already registered.
+[2018.05.15-11.10.32:964][978]Cmd: TRANSACTION UNDO
+[2018.05.15-11.10.32:964][978]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.15-11.10.42:789][855]Cmd: TRANSACTION UNDO
+[2018.05.15-11.10.42:789][855]LogEditorTransaction: Undo Move Actors
+[2018.05.15-11.10.42:794][855]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.SM_Floor1x99_28.StaticMeshComponent0) Component already registered.
+[2018.05.15-11.10.42:796][855]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.SM_Floor1x95.StaticMeshComponent0) Component already registered.
+[2018.05.15-11.10.44:367][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x71)
+[2018.05.15-11.10.45:087][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x49)
+[2018.05.15-11.10.45:439][ 47]Cmd: EDIT COPY
+[2018.05.15-11.10.45:665][ 68]Cmd: EDIT PASTE
+[2018.05.15-11.10.57:505][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x56)
+[2018.05.15-11.10.58:292][190]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x57)
+[2018.05.15-11.10.59:341][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x74)
+[2018.05.15-11.11.00:078][343]Cmd: TRANSACTION UNDO
+[2018.05.15-11.11.00:078][343]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.15-11.11.00:637][382]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x76)
+[2018.05.15-11.11.01:391][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x78)
+[2018.05.15-11.11.02:326][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x55)
+[2018.05.15-11.11.03:272][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x54)
+[2018.05.15-11.11.04:089][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x77)
+[2018.05.15-11.11.05:084][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-11.11.05:717][831]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-11.11.06:620][913]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-11.11.07:547][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-11.11.08:443][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x80)
+[2018.05.15-11.11.09:501][167]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-11.11.10:645][269]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x79)
+[2018.05.15-11.11.11:184][316]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x95)
+[2018.05.15-11.11.11:754][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x96)
+[2018.05.15-11.11.12:201][398]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x97)
+[2018.05.15-11.11.12:884][458]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x94)
+[2018.05.15-11.11.14:099][553]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x98)
+[2018.05.15-11.11.14:572][581]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x99)
+[2018.05.15-11.11.15:692][686]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x100)
+[2018.05.15-11.11.16:106][719]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x101)
+[2018.05.15-11.11.17:141][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x90)
+[2018.05.15-11.11.17:593][855]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x91)
+[2018.05.15-11.11.18:061][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x92)
+[2018.05.15-11.11.18:475][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x93)
+[2018.05.15-11.11.19:669][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x102)
+[2018.05.15-11.11.20:071][ 58]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x103)
+[2018.05.15-11.11.21:019][138]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x104)
+[2018.05.15-11.11.21:428][171]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x105)
+[2018.05.15-11.11.36:575][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x80)
+[2018.05.15-11.11.37:601][641]Cmd: DELETE
+[2018.05.15-11.11.37:601][641]Cmd: ACTOR DELETE
+[2018.05.15-11.11.37:609][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-11.11.37:635][641]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.05.15-11.11.39:036][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x71)
+[2018.05.15-11.11.39:687][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x51)
+[2018.05.15-11.11.40:508][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x71)
+[2018.05.15-11.11.41:072][933]Cmd: EDIT COPY
+[2018.05.15-11.11.41:258][950]Cmd: EDIT PASTE
+[2018.05.15-11.11.52:287][924]Cmd: SELECT NONE
+[2018.05.15-11.11.54:084][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-11.11.54:364][113]Cmd: EDIT COPY
+[2018.05.15-11.11.54:589][125]Cmd: EDIT PASTE
+[2018.05.15-11.11.56:613][309]Cmd: SELECT NONE
+[2018.05.15-11.11.58:729][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x56)
+[2018.05.15-11.11.59:510][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x57)
+[2018.05.15-11.12.03:980][982]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x55)
+[2018.05.15-11.12.04:482][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x78)
+[2018.05.15-11.12.04:895][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x76)
+[2018.05.15-11.12.05:329][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x54)
+[2018.05.15-11.12.06:381][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x83)
+[2018.05.15-11.12.06:902][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x69)
+[2018.05.15-11.12.07:432][238]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x77)
+[2018.05.15-11.12.07:811][269]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x80)
+[2018.05.15-11.12.08:199][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x70)
+[2018.05.15-11.12.08:832][356]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x71)
+[2018.05.15-11.12.09:556][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x62)
+[2018.05.15-11.12.11:387][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x79)
+[2018.05.15-11.12.13:123][690]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x94)
+[2018.05.15-11.12.13:604][720]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x95)
+[2018.05.15-11.12.14:075][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x96)
+[2018.05.15-11.12.14:841][828]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x97)
+[2018.05.15-11.12.15:610][898]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x98)
+[2018.05.15-11.12.16:134][941]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x99)
+[2018.05.15-11.12.16:611][983]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x100)
+[2018.05.15-11.12.17:140][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x101)
+[2018.05.15-11.12.17:579][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x90)
+[2018.05.15-11.12.18:036][103]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x91)
+[2018.05.15-11.12.18:498][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x92)
+[2018.05.15-11.12.18:906][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x93)
+[2018.05.15-11.12.20:475][291]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x102)
+[2018.05.15-11.12.20:953][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x103)
+[2018.05.15-11.12.21:389][356]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x104)
+[2018.05.15-11.12.22:049][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor1x105)
+[2018.05.15-11.12.29:820][ 81]Cmd: SELECT NONE
+[2018.05.15-11.12.31:495][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.12.31:974][240]LogSavePackage: Save=431.20ms
+[2018.05.15-11.12.31:974][240]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01DE984DD04D6F42ED67802697C047D0E1.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.12.31:977][240]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.12.32:116][240]LogSavePackage: Save=92.90ms
+[2018.05.15-11.12.32:116][240]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData7AFF29994255520C2DA4B993CDCCE836.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.12.32:117][240]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.12.35:677][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-11.12.36:583][647]Cmd: EDIT COPY
+[2018.05.15-11.12.36:833][659]Cmd: EDIT PASTE
+[2018.05.15-11.12.49:678][790]Cmd: SELECT NONE
+[2018.05.15-11.12.53:415][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.12.53:896][181]LogSavePackage: Save=440.47ms
+[2018.05.15-11.12.53:896][181]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01F03E874147E3613FCE89198144399452.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.12.53:899][181]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.12.54:036][181]LogSavePackage: Save=94.50ms
+[2018.05.15-11.12.54:036][181]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataD33420C54B14B27F51D1A9963C5F5FD4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.12.54:037][181]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.13.04:067][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.13.04:532][309]LogSavePackage: Save=428.06ms
+[2018.05.15-11.13.04:532][309]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01A7D13F3D40CAFFEC9BF9D18ACCED4667.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.13.04:534][309]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.13.04:665][309]LogSavePackage: Save=89.42ms
+[2018.05.15-11.13.04:665][309]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData7792B5D3492644B308B4A68B6ECF121B.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.13.04:666][309]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.13.05:469][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.13.05:935][394]LogSavePackage: Save=425.90ms
+[2018.05.15-11.13.05:935][394]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level014C96E3E14521658915C409AF5044AAC4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.13.05:937][394]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.13.06:072][394]LogSavePackage: Save=93.41ms
+[2018.05.15-11.13.06:072][394]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData6C12539E48BDB09CC6A3EF9FDE7B3059.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.13.06:073][394]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.13.08:630][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.13.09:101][680]LogSavePackage: Save=433.50ms
+[2018.05.15-11.13.09:102][680]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level017154F5A34E5AD8D6341F5A8263029033.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.13.09:107][680]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.13.09:246][680]LogSavePackage: Save=97.92ms
+[2018.05.15-11.13.09:246][680]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData7D63DD3442C16B0CC77A46A4230E58EB.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.13.09:248][680]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.13.12:353][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x51)
+[2018.05.15-11.13.13:221][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x52)
+[2018.05.15-11.13.13:646][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor4x53)
+[2018.05.15-11.13.14:639][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-11.13.15:268][233]Cmd: EDIT COPY
+[2018.05.15-11.13.15:480][253]Cmd: EDIT PASTE
+[2018.05.15-11.13.34:226][ 96]Cmd: EDIT COPY
+[2018.05.15-11.13.34:425][110]Cmd: EDIT PASTE
+[2018.05.15-11.13.36:249][272]Cmd: EDIT COPY
+[2018.05.15-11.13.36:423][283]Cmd: EDIT PASTE
+[2018.05.15-11.13.38:859][505]Cmd: EDIT COPY
+[2018.05.15-11.13.39:030][516]Cmd: EDIT PASTE
+[2018.05.15-11.13.40:719][678]Cmd: SELECT NONE
+[2018.05.15-11.14.37:540][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x89)
+[2018.05.15-11.14.37:848][149]Cmd: EDIT COPY
+[2018.05.15-11.14.38:101][163]Cmd: EDIT PASTE
+[2018.05.15-11.14.50:162][340]Cmd: EDIT COPY
+[2018.05.15-11.14.50:358][352]Cmd: EDIT PASTE
+[2018.05.15-11.14.52:854][592]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor2x90)
+[2018.05.15-11.14.54:488][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x91)
+[2018.05.15-11.14.54:722][760]Cmd: EDIT COPY
+[2018.05.15-11.14.54:959][774]Cmd: EDIT PASTE
+[2018.05.15-11.14.57:577][ 34]Cmd: SELECT NONE
+[2018.05.15-11.15.01:581][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x75)
+[2018.05.15-11.15.02:045][493]Cmd: SELECT NONE
+[2018.05.15-11.15.03:003][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x92)
+[2018.05.15-11.15.03:464][610]Cmd: EDIT COPY
+[2018.05.15-11.15.03:656][621]Cmd: EDIT PASTE
+[2018.05.15-11.15.17:989][905]Cmd: EDIT PASTE
+[2018.05.15-11.15.18:969][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x93)
+[2018.05.15-11.15.19:775][ 71]Cmd: EDIT COPY
+[2018.05.15-11.15.19:948][ 87]Cmd: EDIT PASTE
+[2018.05.15-11.15.23:369][401]Cmd: EDIT COPY
+[2018.05.15-11.15.23:551][411]Cmd: EDIT PASTE
+[2018.05.15-11.15.26:625][712]Cmd: SELECT NONE
+[2018.05.15-11.15.28:236][884]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.15.28:713][884]LogSavePackage: Save=438.01ms
+[2018.05.15-11.15.28:713][884]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0144F269FA49BBBFF08337A88C7B911B07.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.15.28:715][884]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.15.28:850][884]LogSavePackage: Save=92.98ms
+[2018.05.15-11.15.28:850][884]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData94E5CE5247B1CB8759A792B8946217A2.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.15.28:851][884]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.26.02:515][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.26.03:007][491]LogSavePackage: Save=437.14ms
+[2018.05.15-11.26.03:007][491]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01E9C25EFE42C7D862E3C689AC8B43E02F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.26.03:010][491]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.26.03:154][491]LogSavePackage: Save=94.06ms
+[2018.05.15-11.26.03:154][491]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataEBEDA42C40979617748227A0326C9859.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.26.03:155][491]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.26.06:038][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x50)
+[2018.05.15-11.26.06:486][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x81)
+[2018.05.15-11.26.07:379][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x79)
+[2018.05.15-11.26.10:402][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.26.22:336][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.26.22:816][122]LogSavePackage: Save=438.37ms
+[2018.05.15-11.26.22:816][122]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0196E8F17E4673753CE01175B5960C908D.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.26.22:819][122]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.26.22:955][122]LogSavePackage: Save=90.92ms
+[2018.05.15-11.26.22:955][122]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData7E91FA8E4628410C6E7145A04754F36E.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.26.22:956][122]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.27.04:967][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.27.05:450][614]LogSavePackage: Save=442.61ms
+[2018.05.15-11.27.05:450][614]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level015E1548504540B2661C759F9EA71053A1.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.27.05:453][614]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.27.05:594][614]LogSavePackage: Save=99.45ms
+[2018.05.15-11.27.05:594][614]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataA5A129214224C72C3340E7A207495863.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.27.05:595][614]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.27.11:285][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.27.11:379][133]LogActorFactory: Actor Factory created SM_Floor1x1
+[2018.05.15-11.27.11:739][158]LogActorFactory: Actor Factory created SM_Floor1x1
+[2018.05.15-11.27.25:243][513]Cmd: SELECT NONE
+[2018.05.15-11.27.29:428][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.27.33:415][272]Cmd: SELECT NONE
+[2018.05.15-11.27.34:675][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor1x88)
+[2018.05.15-11.27.36:264][537]Cmd: EDIT COPY
+[2018.05.15-11.27.36:477][558]Cmd: EDIT PASTE
+[2018.05.15-11.27.47:597][541]Cmd: SELECT NONE
+[2018.05.15-11.27.48:952][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor1x89)
+[2018.05.15-11.27.53:008][ 19]Cmd: SELECT NONE
+[2018.05.15-11.27.54:934][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x75)
+[2018.05.15-11.27.55:249][216]Cmd: EDIT COPY
+[2018.05.15-11.27.55:440][225]Cmd: EDIT PASTE
+[2018.05.15-11.27.56:485][321]Cmd: TRANSACTION UNDO
+[2018.05.15-11.27.56:485][321]LogEditorTransaction: Undo Paste
+[2018.05.15-11.27.57:571][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x96)
+[2018.05.15-11.27.58:181][454]Cmd: EDIT COPY
+[2018.05.15-11.27.58:376][471]Cmd: EDIT PASTE
+[2018.05.15-11.28.07:936][321]Cmd: SELECT NONE
+[2018.05.15-11.28.08:731][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.28.09:217][396]LogSavePackage: Save=444.48ms
+[2018.05.15-11.28.09:217][396]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level010BA6032B49BC74D592E555BE8A8FD16A.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.28.09:219][396]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.28.09:351][396]LogSavePackage: Save=91.26ms
+[2018.05.15-11.28.09:351][396]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData2FC2FF4E4BCB05E87719339C02B8DBFC.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.28.09:352][396]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.28.13:724][819]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2018.05.15-11.28.18:952][819]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor2x63)
+[2018.05.15-11.28.19:032][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.28.20:613][958]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2018.05.15-11.28.23:829][258]Cmd: EDIT COPY
+[2018.05.15-11.28.24:014][276]Cmd: EDIT PASTE
+[2018.05.15-11.28.32:915][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.28.36:407][445]Cmd: SELECT NONE
+[2018.05.15-11.28.37:899][583]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture5)
+[2018.05.15-11.28.39:275][694]Cmd: SELECT NONE
+[2018.05.15-11.28.39:807][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.28.40:293][745]LogSavePackage: Save=438.94ms
+[2018.05.15-11.28.40:293][745]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01586F723A4AFF504C63BFD9B29B8BCD90.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.28.40:295][745]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.28.40:433][745]LogSavePackage: Save=92.43ms
+[2018.05.15-11.28.40:434][745]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataD0B1924746686F144B9249B4BA6818C1.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.28.40:435][745]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.28.40:853][789]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture5)
+[2018.05.15-11.28.41:860][876]Cmd: SELECT NONE
+[2018.05.15-11.28.44:792][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.28.44:875][181]MapCheck: New page: Map Check
+[2018.05.15-11.28.44:909][181]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.15-11.28.44:909][181]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.15-11.28.45:158][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.15-11.28.45:166][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.05.15-11.28.45:172][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Dev_Mockup, compiling. 
+[2018.05.15-11.28.45:179][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.28.45:179][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.15-11.28.45:179][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor4x4, compiling. 
+[2018.05.15-11.28.45:185][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor2x2, compiling. 
+[2018.05.15-11.28.45:191][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.05.15-11.28.45:196][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.05.15-11.28.45:202][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceiling4x4, compiling. 
+[2018.05.15-11.28.45:208][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceiling2x2, compiling. 
+[2018.05.15-11.28.45:220][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wall4x4, compiling. 
+[2018.05.15-11.28.45:225][181]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.15-11.28.45:225][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wall2x2, compiling. 
+[2018.05.15-11.28.45:231][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wall1x1, compiling. 
+[2018.05.15-11.28.45:238][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceiling1x1, compiling. 
+[2018.05.15-11.28.45:243][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor1x1, compiling. 
+[2018.05.15-11.28.45:262][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MorphBox, compiling. 
+[2018.05.15-11.28.45:268][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.15-11.28.45:273][181]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Projectile, compiling. 
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.28.48:534][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.15-11.28.48:534][181]TextureStreamingBuild: Display: Compiling optional shaders took 3.382 seconds.
+[2018.05.15-11.28.48:583][181]LogLevel: Display: Export Material TexCoord Scales took 0.049 seconds.
+[2018.05.15-11.28.48:638][181]TextureStreamingBuild: Display: Build Texture Streaming took 0.054 seconds.
+[2018.05.15-11.28.48:663][181]LightingResults: New page: Lighting Build - 15. mai 2018, 15.28.48
+[2018.05.15-11.28.48:803][181]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.15-11.28.49:000][181]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.15-11.28.49:441][181]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.15-11.28.51:729][181]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.05.15-11.28.51:732][181]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Kan ikke koble til fordi målmaskinen avslo tilkobling 127.0.0.1:8008
+
+Server stack trace: 
+   ved System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   ved System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   ved System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   ved System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   ved System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   ved System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   ved System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   ved System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   ved System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   ved NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   ved NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.05.15-11.28.56:848][181]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.15-11.28.56:854][181]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9924
+[2018.05.15-11.28.57:630][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.15-11.28.57:630][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.15-11.28.57:630][181]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.15-11.28.57:630][181]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.15-11.28.57:630][181]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.15-11.28.57:833][181]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.15-11.28.57:833][181]MapCheck: New page: Level01 - 15. mai 2018, 15.28.57
+[2018.05.15-11.28.57:846][181]MapCheck: Warning: SM_Floor2x92 SM_Floor2x92 is in the same location as SM_Floor2x94 
+[2018.05.15-11.28.57:846][181]MapCheck: Warning: SM_Floor2x94 SM_Floor2x94 is in the same location as SM_Floor2x92 
+[2018.05.15-11.28.57:902][181]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 70,478ms to complete.
+[2018.05.15-11.28.57:925][181]LogEditorBuildUtils: Build time 0:13
+[2018.05.15-11.28.58:014][182]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor4x4, compiling. 
+[2018.05.15-11.28.58:021][182]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor4x4, compiling. 
+[2018.05.15-11.28.58:029][182]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.15-11.28.58:040][183]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor2x2, compiling. 
+[2018.05.15-11.28.58:045][183]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.28.58:045][183]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor2x2, compiling. 
+[2018.05.15-11.28.58:051][183]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.28.58:528][184]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor1x1, compiling. 
+[2018.05.15-11.28.58:532][184]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.28.58:532][184]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Floor1x1, compiling. 
+[2018.05.15-11.28.59:178][186]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.15-11.29.02:120][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.29.06:629][575]Cmd: DELETE
+[2018.05.15-11.29.06:629][575]Cmd: ACTOR DELETE
+[2018.05.15-11.29.06:639][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-11.29.06:662][575]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.05.15-11.29.08:663][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.29.12:614][825]Cmd: DELETE
+[2018.05.15-11.29.12:614][825]Cmd: ACTOR DELETE
+[2018.05.15-11.29.12:623][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.15-11.29.12:648][825]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.05.15-11.29.12:879][831]Job is a success!
+[2018.05.15-11.29.12:945][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:          1: 75.0% covering 4.7% of volume
+[2018.05.15-11.29.12:988][832]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.05.15-11.29.13:297][832]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.05.15-11.29.13:415][832]LogStaticLightingSystem: Illumination: 24.7 sec (203 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.05.15-11.29.13:415][832]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.05.15-11.29.13:415][832]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.15-11.29.13:656][832]Lightmass on MAGNUS-PC: 13.3 sec total, 1.65 sec importing, 230 ms setup, 2.34 sec photons, 8.65 sec processing, 0 ms extra exporting [390/390 mappings]. Threads: 34.5 sec total, 23.2 sec processing.
+[2018.05.15-11.29.13:657][832]DumpUnbuiltLightIteractions
+[2018.05.15-11.29.13:657][832]Lights with unbuilt interactions: 0
+[2018.05.15-11.29.13:657][832]
+[2018.05.15-11.29.13:657][832]Primitives with unbuilt interactions: 0
+[2018.05.15-11.29.13:689][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.29.13:830][833]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.15-11.29.13:830][833]MapCheck: New page: Level01 - 15. mai 2018, 15.29.13
+[2018.05.15-11.29.13:900][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,395ms to complete.
+[2018.05.15-11.29.18:131][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2x91)
+[2018.05.15-11.29.18:883][333]Cmd: EDIT COPY
+[2018.05.15-11.29.19:097][345]Cmd: EDIT PASTE
+[2018.05.15-11.29.21:262][563]Cmd: SELECT NONE
+[2018.05.15-11.29.21:924][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.29.22:424][636]LogSavePackage: Save=448.54ms
+[2018.05.15-11.29.22:424][636]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0145ECA20B46D198935DE0F2AAEFA403A4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.29.22:426][636]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.29.22:552][636]LogSavePackage: Save=75.18ms
+[2018.05.15-11.29.22:552][636]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataF1E9BEB94670F7B6FB6A92B08A6F9E26.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.29.22:555][636]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.29.22:832][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.29.23:452][679]LogSavePackage: Save=451.57ms
+[2018.05.15-11.29.23:452][679]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01EC6943C6484B6DD42429638AECF67CC3.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.29.23:455][679]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.29.23:578][679]LogSavePackage: Save=77.63ms
+[2018.05.15-11.29.23:578][679]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData3D2AF0F44588E9B81AE70797EDE8DF2F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.29.23:580][679]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.29.25:480][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.29.26:938][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.29.27:439][ 46]LogSavePackage: Save=462.89ms
+[2018.05.15-11.29.27:439][ 46]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01298A6F5847492F18EE92B2ABE994BF6F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.29.27:442][ 46]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.29.27:562][ 46]LogSavePackage: Save=74.39ms
+[2018.05.15-11.29.27:562][ 46]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData248BC8774385718FD3BB41A0A3D671B4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.29.27:564][ 46]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.29.27:812][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.29.27:888][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.15-11.29.27:908][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.29.27:908][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-11.29.27:908][ 81]PIE: New page: PIE session: Level01 (15. mai 2018, 15.29.27)
+[2018.05.15-11.29.27:908][ 81]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level01
+[2018.05.15-11.29.27:933][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025193s)
+[2018.05.15-11.29.27:933][ 81]LogAIModule: Creating AISystem for world Level01
+[2018.05.15-11.29.27:934][ 81]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2018.05.15-11.29.27:934][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level01.Level01 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.026472s)
+[2018.05.15-11.29.27:967][ 81]LogInit: XAudio2 using 'Øretelefon (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.15-11.29.27:976][ 81]LogInit: FAudioDevice initialized.
+[2018.05.15-11.29.28:093][ 81]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.15-11.29.28:104][ 81]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.15-13.29.28
+[2018.05.15-11.29.28:104][ 81]LogWorld: Bringing up level for play took: 0.010478
+[2018.05.15-11.29.28:112][ 81]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level01 0,965
+[2018.05.15-11.29.28:113][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.29.54:863][765]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] LargeBox
+[2018.05.15-11.29.56:203][902]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] SmallBox
+[2018.05.15-11.29.57:721][ 53]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] NormalBox
+[2018.05.15-11.30.05:377][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.30.05:399][792]LogSlate: Window 'UE4_MorphGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.15-11.30.05:432][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/FirstPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2018.05.15-11.30.06:069][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.06:555][851]LogSavePackage: Save=443.94ms
+[2018.05.15-11.30.06:555][851]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0197203B204E6C2672E3AD90AF872FE5A4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.06:558][851]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.06:679][851]LogSavePackage: Save=80.59ms
+[2018.05.15-11.30.06:679][851]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData4EDA2F40467058C10D3339999B8E95D2.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.06:681][851]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.08:752][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.09:240][ 53]LogSavePackage: Save=447.44ms
+[2018.05.15-11.30.09:240][ 53]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01E38B1CC94B83F7E4E903A382C30DDE12.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.09:242][ 53]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.09:359][ 53]LogSavePackage: Save=75.53ms
+[2018.05.15-11.30.09:359][ 53]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData91AD1F1F402C6F82F274609C7174EC9F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.09:360][ 53]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.11:209][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.11:687][243]LogSavePackage: Save=439.32ms
+[2018.05.15-11.30.11:687][243]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0154A324D84FFB5680507B5B8C14049BD8.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.11:690][243]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.11:809][243]LogSavePackage: Save=76.86ms
+[2018.05.15-11.30.11:809][243]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataEE8649694D597620283B108383D12C34.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.11:810][243]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.13:467][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.13:956][409]LogSavePackage: Save=446.39ms
+[2018.05.15-11.30.13:956][409]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0120B2A42F4733C8609B4243B86D810D7B.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.13:958][409]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.14:080][409]LogSavePackage: Save=75.71ms
+[2018.05.15-11.30.14:080][409]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData3C60A14F4747108735A433B57D937B1D.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.14:081][409]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.17:156][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.17:632][742]LogSavePackage: Save=438.45ms
+[2018.05.15-11.30.17:632][742]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01B709ED414134D9D02EDA26BE23D2172C.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.17:635][742]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.17:759][742]LogSavePackage: Save=77.18ms
+[2018.05.15-11.30.17:759][742]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataC69E58C243AE048C0B5AB0A6271865E3.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.17:760][742]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.26:035][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.26:522][657]LogSavePackage: Save=447.62ms
+[2018.05.15-11.30.26:523][657]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level010D0FDE914349C8C833D536BE8E847035.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.26:525][657]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.26:643][657]LogSavePackage: Save=75.19ms
+[2018.05.15-11.30.26:643][657]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData1CB3391D4AE827DCA2DEC58B382BC221.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.26:644][657]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.34:573][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.35:060][553]LogSavePackage: Save=450.93ms
+[2018.05.15-11.30.35:060][553]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0178C071164B1AE62A713B498B61E7E8FC.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.35:062][553]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.35:178][553]LogSavePackage: Save=75.70ms
+[2018.05.15-11.30.35:178][553]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataC1B0F2ED496C57CFF3B9D588A978C6DD.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.35:180][553]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.30.46:002][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4x74)
+[2018.05.15-11.30.47:208][818]Cmd: EDIT COPY
+[2018.05.15-11.30.47:432][830]Cmd: EDIT PASTE
+[2018.05.15-11.30.53:588][400]Cmd: TRANSACTION UNDO
+[2018.05.15-11.30.53:588][400]LogEditorTransaction: Undo Move Actors
+[2018.05.15-11.30.55:305][527]Cmd: SELECT NONE
+[2018.05.15-11.30.56:028][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.30.56:507][602]LogSavePackage: Save=438.12ms
+[2018.05.15-11.30.56:508][602]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0136E6F564484B05C346CD3499B207C9E4.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.30.56:510][602]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.30.56:629][602]LogSavePackage: Save=75.97ms
+[2018.05.15-11.30.56:629][602]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataEF4856D34C35F8C3CA2A1282A41CFE84.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.30.56:631][602]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.00:069][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.00:567][956]LogSavePackage: Save=452.29ms
+[2018.05.15-11.31.00:567][956]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level014823B2EC4E2A44DC6C9000899956B942.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.00:569][956]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.00:683][956]LogSavePackage: Save=74.45ms
+[2018.05.15-11.31.00:683][956]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataADD0D74D4AC3B46B94549C8FB34904B1.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.00:684][956]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.09:083][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.09:567][830]LogSavePackage: Save=441.49ms
+[2018.05.15-11.31.09:567][830]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01BDBA554A4160EFF131A29EAD14A16233.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.09:569][830]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.09:693][830]LogSavePackage: Save=73.68ms
+[2018.05.15-11.31.09:693][830]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData5AE8C4E14A9EC342A1DE7EABF68BA828.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.09:694][830]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.12:013][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.12:496][ 61]LogSavePackage: Save=443.42ms
+[2018.05.15-11.31.12:496][ 61]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0123F1B16B47BFCCCEFA54A5BD56D5E74A.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.12:498][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.12:618][ 61]LogSavePackage: Save=74.09ms
+[2018.05.15-11.31.12:618][ 61]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData9FB1DCF2457FF8AA7310F0A777861A3F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.12:619][ 61]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.21:685][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.22:164][ 17]LogSavePackage: Save=439.73ms
+[2018.05.15-11.31.22:164][ 17]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0170B77E2C4F9813A0D5F9ED8137C0F152.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.22:166][ 17]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.22:284][ 17]LogSavePackage: Save=74.55ms
+[2018.05.15-11.31.22:284][ 17]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltDataEB6467AC42CEB970856801B3B78B6877.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.22:286][ 17]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.34:607][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.35:092][362]LogSavePackage: Save=444.41ms
+[2018.05.15-11.31.35:092][362]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level012995E4AE41B31C673CB363857A7A9AB9.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.35:095][362]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.35:219][362]LogSavePackage: Save=78.34ms
+[2018.05.15-11.31.35:219][362]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData1263D35048078BD2A60AD187B8C43150.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.35:220][362]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.40:069][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.15-11.31.40:550][902]LogSavePackage: Save=442.41ms
+[2018.05.15-11.31.40:550][902]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level0190162E1047120C57FE5BC2861583B90E.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap'
+[2018.05.15-11.31.40:553][902]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01.umap
+[2018.05.15-11.31.40:671][902]LogSavePackage: Save=77.38ms
+[2018.05.15-11.31.40:671][902]LogSavePackage: Moving 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Level01_BuiltData6FBAFED042A33DA5FA9839A726622A3F.tmp' to 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset'
+[2018.05.15-11.31.40:672][902]LogSavePackage: Display: Finished SavePackage C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/FirstPersonBP/Maps/Level01_BuiltData.uasset
+[2018.05.15-11.31.43:497][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.31.45:074][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-11.31.45:347][342]LogSlate: Window 'UE4_MorphGame - Unreal Editor' being destroyed
+[2018.05.15-11.31.45:348][342]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-11.31.45:640][343]Cmd: QUIT_EDITOR
+[2018.05.15-11.31.45:930][343]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.15-11.31.45:930][343]LogExit: Preparing to exit.
+[2018.05.15-11.31.47:223][343]LogExit: Editor shut down
+[2018.05.15-11.31.47:252][343]LogExit: Transaction tracking system shut down
+[2018.05.15-11.31.47:252][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8434311c0, Size=160
+[2018.05.15-11.31.47:252][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843440900, Size=256
+[2018.05.15-11.31.47:252][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843440100, Size=256
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343da00, Size=256
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d84343f200, Size=256
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842951490, Size=72
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842bd9080, Size=272
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8c7a64800, Size=1568
+[2018.05.15-11.31.47:253][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d843195400, Size=480
+[2018.05.15-11.31.47:254][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d842b77d80, Size=560
+[2018.05.15-11.31.47:254][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d846983100, Size=648
+[2018.05.15-11.31.47:255][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8469e1d38, Size=52
+[2018.05.15-11.31.47:257][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8c3b35050, Size=4
+[2018.05.15-11.31.47:257][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8c3b35048, Size=4
+[2018.05.15-11.31.47:258][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8c7b23200, Size=1536
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.15-11.31.47:451][343]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.15-11.31.47:563][343]LogExit: Object subsystem successfully closed.
+[2018.05.15-11.31.47:585][343]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.15-11.31.47:591][343]LogD3D11RHI: Shutdown
+[2018.05.15-11.31.47:591][343]LogD3D11RHI: CleanupD3DDevice
+[2018.05.15-11.31.47:596][343]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (580)
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.05.15-11.31.47:608][343]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.05.15-11.31.47:608][343]LogDirectoryWatcher: A directory notification for 'D:/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.05.15-11.31.47:611][343]LogDirectoryWatcher: A directory notification for 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Collections/' was aborted.
+[2018.05.15-11.31.47:611][343]LogDirectoryWatcher: A directory notification for 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Content/Developers/Magnus/Collections/' was aborted.
+[2018.05.15-11.31.47:611][343]LogDirectoryWatcher: A directory notification for 'C:/Users/Magnus/Documents/GitHub/UE4_SpringJam/UE4_MorphGame/Saved/Collections/' was aborted.
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.15-11.31.47:611][343]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.15-11.31.47:612][343]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.15-11.31.47:613][343]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.15-11.31.47:613][343]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.15-11.31.47:613][343]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.15-11.31.47:613][343]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.15-11.31.47:613][343]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.05.15-11.31.48:209][343]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.05.15-11.31.48:264][343]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.05.15-11.31.48:264][343]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.05.15-11.31.48:264][343]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.05.15-11.31.48:265][343]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.05.15-11.31.48:270][343]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.05.15-11.31.48:271][343]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.05.15-11.31.48:341][343]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.15-11.31.48:347][343]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.15-11.31.48:348][343]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.15-11.31.48:449][343]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.15-11.31.48:549][343]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.15-11.31.48:550][343]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.15-11.31.48:550][343]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.15-11.31.48:550][343]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.15-11.31.48:551][343]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.15-11.31.48:551][343]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.15-11.31.48:551][343]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.15-11.31.48:551][343]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.15-11.31.48:620][343]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.15-11.31.48:620][343]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.15-11.31.48:620][343]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.15-11.31.48:621][343]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.15-11.31.48:628][343]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.15-11.31.48:629][343]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.15-11.31.48:631][343]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.15-11.31.48:633][343]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.15-11.31.48:691][343]LogDerivedDataCache: Shutdown
+[2018.05.15-11.31.48:691][343]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.15-11.31.48:691][343]LogXGEController: Cleaning working directory: C:/Users/Magnus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.15-11.31.48:691][343]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.15-11.31.48:692][343]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.15-11.31.48:693][343]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.15-11.31.48:693][343]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.15-11.31.48:693][343]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4937E1E0-450C-185E-D97C-BBA09572BEB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=a1328f8b4b27980f4eb39a8ed1208b4f%7C07c812ce51884e509e41d7ec8613d7db%7C6aef0a9f-b728-4fc9-a3bf-f0a7ec88ec16&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.15-11.31.48:722][343]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.15-11.31.48:723][343]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.15-11.31.48:725][343]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.15-11.31.48:730][343]LogExit: Exiting.
+[2018.05.15-11.31.48:756][343]Log file closed, 05/15/18 13:31:48
